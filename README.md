@@ -7,9 +7,12 @@
 快速查询：<kbd>command</kbd> + <kbd>F</kbd>
 
 ## 目录
-
+- [博客](#博客)
 ## 博客
-- [阮一峰](http://www.ruanyifeng.com/blog/) - 阮一峰老师博学多才，乐于分享，博客内容丰富。[![](/media/github.svg "阮一峰的 Github")](https://github.com/ruanyf)
-- [纯洁的微笑](http://www.ityouknow.com/) - 微笑哥，互联网金融行业的 Java 技术人，博文较多介绍 Spring Boot 和 Spring Cloud。[![](/media/github.svg "纯洁的微笑的 Github")](https://github.com/ityouknow) [![](/media/zhihu.svg "纯洁的微笑的知乎")](https://www.zhihu.com/people/ityouknow)
-- [廖雪峰](https://www.liaoxuefeng.com/) - 《Spring 2.0核心技术与最佳实践》的作者，博客内容丰富，适合初学者入门。[![](/media/github.svg "廖雪峰的 Github")](https://github.com/michaelliao) [![](/media/zhihu.svg "廖雪峰的知乎")](https://www.zhihu.com/people/liaoxuefeng)
-- [RednaxelaFX](https://rednaxelafx.iteye.com/) - R 大，超级大牛，研究虚拟机的，瞻仰就对了。[![](/media/zhihu.svg "rednaxelafx 的知乎")](https://www.zhihu.com/people/rednaxelafx)
+- [阮一峰](http://www.ruanyifeng.com/blog/) - 阮一峰老师博学多才，乐于分享，博客内容丰富。[![](/media/github.svg "阮一峰的 Github")](https://github.com/ruanyf/)
+- [纯洁的微笑](http://www.ityouknow.com/) - 微笑哥，互联网金融行业的 Java 技术人，博文较多介绍 Spring Boot 和 Spring Cloud。[![](/media/github.svg "纯洁的微笑的 Github")](https://github.com/ityouknow/) [![](/media/zhihu.svg "纯洁的微笑的知乎")](https://www.zhihu.com/people/ityouknow/)
+- [廖雪峰](https://www.liaoxuefeng.com/) - 《Spring 2.0核心技术与最佳实践》的作者，博客内容丰富，适合初学者入门。[![](/media/github.svg "廖雪峰的 Github")](https://github.com/michaelliao/) [![](/media/zhihu.svg "廖雪峰的知乎")](https://www.zhihu.com/people/liaoxuefeng/)
+- [RednaxelaFX](https://rednaxelafx.iteye.com/) - R 大，超级大牛，研究虚拟机的，瞻仰就对了。[![](/media/zhihu.svg "rednaxelafx 的知乎")](https://www.zhihu.com/people/rednaxelafx/)
+- [程序猿DD](http://blog.didispace.com/) - 《Spring Cloud微服务实战》作者，SpringCloud 中文社区创始人。[![](/media/github.svg "程序猿DD的 Github")](https://github.com/dyc87112/)
+- [江南白衣](http://calvin1978.blogcn.com/) - 资深 Java 程序员，著名 Java 开源项目 SpringSide 的缔造者。[![](/media/github.svg "江南白衣的 Github")](https://github.com/calvin1978/)
+- [嘟嘟MD](http://tengj.top/) - Java 程序员，Spring Boot 入门系列质量不错。[![](/media/github.svg "嘟嘟MD的 Github")](https://github.com/tengj/)
