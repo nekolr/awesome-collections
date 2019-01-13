@@ -4,4 +4,7 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-- awesome_bot README.md --allow-redirect
+  # white list:
+    # www.techug.com
+    # www.awesomes.cn
+- awesome_bot README.md --allow-redirect -w www.techug.com,www.awesomes.cn
