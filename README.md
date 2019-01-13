@@ -6,15 +6,31 @@
 
 快速查询：<kbd>command</kbd> + <kbd>F</kbd>
 
-## 目录
+# 目录
 - [博客](#博客)
     - [个人博客](#个人博客)
     - [团队博客](#团队博客)
 - [社区](#社区)
     - [技术社区](#技术社区)
-## 博客
+- [工具](#工具)
+    - [在线工具](#在线工具)
+        - [图床](#图床)
+        - [网站安全](#网站安全)
+        - [文件处理](#文件处理)
+        - [资源下载](#资源下载)
+        - [API](#api)
+        - [正则表达式](#正则表达式)
+        - [前端](#前端)
+        - [工具集合](#工具集合)
+        - [服务器监控](#服务器监控)
+        - [素材](#素材)
+        - [在线开发环境](#在线开发环境)
+        - [设计](#设计)
+        - [作图](#作图)
+        - [PS](#ps)
+# 博客
 
-### 个人博客
+## 个人博客
 - [阮一峰](http://www.ruanyifeng.com/blog/) - 阮一峰老师博学多才，乐于分享，博客内容丰富。[![](/media/github.svg "阮一峰的 Github")](https://github.com/ruanyf/)
 - [纯洁的微笑](http://www.ityouknow.com/) - 微笑哥，互联网金融行业的 Java 技术人，博文较多介绍 Spring Boot 和 Spring Cloud。[![](/media/github.svg "纯洁的微笑的 Github")](https://github.com/ityouknow/) [![](/media/zhihu.svg "纯洁的微笑的知乎")](https://www.zhihu.com/people/ityouknow/)
 - [廖雪峰](https://www.liaoxuefeng.com/) - 《Spring 2.0核心技术与最佳实践》的作者，博客内容丰富，适合初学者入门。[![](/media/github.svg "廖雪峰的 Github")](https://github.com/michaelliao/) [![](/media/zhihu.svg "廖雪峰的知乎")](https://www.zhihu.com/people/liaoxuefeng/)
@@ -63,7 +79,7 @@
 - [酷壳](https://coolshell.cn/) - 陈皓大神的个人博客。
 - [程序师](http://www.techug.com/) - 程序师视野博客。
 
-### 团队博客
+## 团队博客
 - [美团技术团队](https://tech.meituan.com/) - 美团技术团队的博客。
 - [有赞技术团队](https://tech.youzan.com/) - 有赞技术团队的博客。
 - [OneAPM](http://blog.oneapm.com/) - OneAPM 官方博客。
@@ -71,9 +87,9 @@
 - [阿里巴巴国际 UED 团队](http://www.aliued.com/) - 阿里巴巴国际 UED 团队的博客。
 - [有一点](http://www.aliued.cn/) - 阿里巴巴中文站 UED 的博客。
 
-## 社区
+# 社区
 
-### 技术社区
+## 技术社区
 - [并发网](http://ifeve.com/) - 一个垂直性技术网站。
 - [SegmentFault](https://segmentfault.com/) - 思否，为开发者提供问答、学习与交流编程知识的平台。
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区。
@@ -89,3 +105,77 @@
 - [SSL中国](https://www.sslchina.com/) - 关注网络安全和行业未来。
 - [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，取名源自《黑客与画家》。
 - [技术宅](https://jszbug.com/) - 技术宅，专注分享，专注技术！分享互联网科技新闻轶事，分享生活小常识，各种数码使用小技巧！
+
+# 工具
+
+## 在线工具
+
+### 图床
+- [SM.MS](https://sm.ms/) - 图床服务，速度快，比较稳定。
+
+### 网站安全
+- [hstspreload.org](https://hstspreload.org/) - 检查网站是否支持 HSTS。[![hstspreload.org](/media/github.svg)](https://github.com/chromium/hstspreload.org/)
+- [W3Techs](https://w3techs.com/sites) - 检索特定站点正在使用的技术。
+- [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) - 站点 SSL Web 服务配置分析。
+- [HTTP Security Report](https://httpsecurityreport.com/) - 站点安全性分析。
+- [SSL For Free](https://www.sslforfree.com/) - 免费 SSL 证书申请。
+- [HTTP/2 support test](https://cdnsun.com/knowledgebase/tools/http2-support-test) - 检查站点是否支持 HTTP/2。
+
+### 文件处理
+- [Convertio](https://convertio.co/zh/) - 各种格式的文件互相转换。
+- [waifu2x](http://waifu2x.udp.jp/) - 使用卷积神经网络对动漫风格的图片进行放大。[![waifu2x](/media/github.svg)](https://github.com/nagadomi/waifu2x/)
+- [Picdiet](https://www.picdiet.com/) - 在线批量压缩图片。
+- [Duri.me](https://duri.me/) - 上传图片，将图片转换为 CSS、DataURI 或者 HTML。[![duri.me](/media/github.svg)](https://github.com/HelloTiago/duri.me/)
+
+### 资源下载
+- [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
+
+### API
+- [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
+
+### 正则表达式
+[regexr](https://regexr.com/) - 在线创建、测试以及学习正则表达式。[![regexr](/media/github.svg)](https://github.com/gskinner/regexr/)
+
+### 前端
+- [You might not need jQuery](http://youmightnotneedjquery.com/) - 教你如何使用原生 JavaScript 替换对应的 jQuery 代码。[![youmightnotneedjquery](/media/github.svg)](https://github.com/HubSpot/YouMightNotNeedjQuery/)
+- [Minify your JavaScript](https://javascript-minifier.com/) - JavaScript 代码压缩。
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) - 检查现代网络技术的浏览器支持程度。
+- [jsPerf](https://jsperf.com/) - 在线创建 JavaScript 测试用例，运行基准测试来比较不同代码段的性能。
+- [stackshare](https://stackshare.io/) - 提供各种软件和技术栈的比较，并提供使用它们的公司。
+- [HTML5 TEST](http://html5test.com/) - 检查你的浏览器对于 HTML5 的支持度。
+
+### 工具集合
+- [tool.lu](https://tool.lu/) - 在线工具集合。
+- [ATOOL](http://www.atool.org/) - 在线工具集合。
+- [Hurricane Electric BGP Toolkit](https://bgp.he.net/) - BGP 查询，全球域名排行查询等。
+
+### 服务器监控
+- [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
+
+### 素材
+- [Shields.io](https://shields.io/) - 在线制作徽章。[![shields](/media/github.svg)](https://github.com/badges/shields/)
+- [iconfont](https://www.iconfont.cn/) - 阿里巴巴矢量图标库。
+- [easyicon](https://www.easyicon.net/) - 图标下载。
+- [loading.io](https://loading.io/) - 在线生成加载图标。
+
+### 在线开发环境
+- [Repl.it](https://repl.it/) - 提供各种语言的在线开发环境。
+- [JSFiddle](https://jsfiddle.net/) - 在线编辑和测试 HTML、CSS 和 JavaScript 代码片段，同时可以分享给他人或嵌入页面。
+- [RunJS](https://runjs.cn/) - 在线编辑、展示、分享、交流你的 JavaScript 代码。
+- [JSRUN](http://jsrun.net/) - HTML/JS/CSS在线编辑器。
+- [CodePen](https://codepen.io/) - 在线编辑 HTML、CSS 和 JavaScript，并且有很多优秀的作品展示。
+- [JS Bin](http://html5test.com/) - 在线编辑 HTML、CSS 和 JavaScript。
+- [Thimble](https://thimble.mozilla.org/) - Thimble 是一个在线代码编辑器，用它可以很轻松地创建和发布一个您自己的网页。
+- [CodeSandbox](https://codesandbox.io/) - 在线创建前端项目。[![CodeSandbox](/media/github.svg)](https://github.com/CompuIves/codesandbox-client/)
+
+### 设计
+- [Color Hunt](https://colorhunt.co/) - 色彩搭配。
+- [COOLORS](https://coolors.co/) - 配色方案生成器。
+- [Dribbble](https://dribbble.com/) - 优秀创意作品展示地。
+
+### 作图
+- [ProcessOn](https://www.processon.com/) - 免费在线绘制流程图、思维导图、UI原型图、UML、网络拓扑图、组织结构图等等，实时协作。
+- [asciiflow2](http://asciiflow.com/) - 绘制 ASCII 流程图。[![asciiflow2](/media/github.svg)](https://github.com/lewish/asciiflow2/)
+
+### PS
+- [搞定抠图](https://www.gaoding.com/koutu) - 在线抠图。
