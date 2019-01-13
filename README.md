@@ -17,7 +17,7 @@
         - [图床](#图床)
         - [网站安全](#网站安全)
         - [文件处理](#文件处理)
-        - [资源下载](#资源下载)
+        - [视频下载](#视频下载)
         - [API](#api)
         - [正则表达式](#正则表达式)
         - [前端](#前端)
@@ -121,13 +121,14 @@
 - [SSL For Free](https://www.sslforfree.com/) - 免费 SSL 证书申请。
 - [HTTP/2 support test](https://cdnsun.com/knowledgebase/tools/http2-support-test) - 检查站点是否支持 HTTP/2。
 
-### 文件处理
+### 图片处理
 - [Convertio](https://convertio.co/zh/) - 各种格式的文件互相转换。
 - [waifu2x](http://waifu2x.udp.jp/) - 使用卷积神经网络对动漫风格的图片进行放大。[![waifu2x](/media/github.svg)](https://github.com/nagadomi/waifu2x/)
 - [Picdiet](https://www.picdiet.com/) - 在线批量压缩图片。
 - [Duri.me](https://duri.me/) - 上传图片，将图片转换为 CSS、DataURI 或者 HTML。[![duri.me](/media/github.svg)](https://github.com/HelloTiago/duri.me/)
+- [搞定抠图](https://www.gaoding.com/koutu) - 在线抠图。
 
-### 资源下载
+### 视频下载
 - [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
 
 ### API
@@ -176,6 +177,3 @@
 ### 作图
 - [ProcessOn](https://www.processon.com/) - 免费在线绘制流程图、思维导图、UI原型图、UML、网络拓扑图、组织结构图等等，实时协作。
 - [asciiflow2](http://asciiflow.com/) - 绘制 ASCII 流程图。[![asciiflow2](/media/github.svg)](https://github.com/lewish/asciiflow2/)
-
-### PS
-- [搞定抠图](https://www.gaoding.com/koutu) - 在线抠图。
