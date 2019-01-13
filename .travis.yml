@@ -7,4 +7,6 @@ script:
   # white list:
     # www.techug.com
     # www.awesomes.cn
-- awesome_bot README.md --allow-redirect -w www.techug.com,www.awesomes.cn
+    # regexr.com
+    # html5test.com
+- awesome_bot README.md --allow-redirect -w www.techug.com,www.awesomes.cn,regexr.com,html5test.com
