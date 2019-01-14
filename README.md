@@ -13,20 +13,21 @@
 - [社区](#社区)
     - [技术社区](#技术社区)
 - [工具](#工具)
-    - [在线工具](#在线工具)
-        - [图床](#图床)
-        - [网站安全](#网站安全)
-        - [图片处理](#图片处理)
-        - [视频下载](#视频下载)
-        - [API](#api)
-        - [正则表达式](#正则表达式)
-        - [前端](#前端)
-        - [工具集合](#工具集合)
-        - [服务器](#服务器)
-        - [素材](#素材)
-        - [在线开发环境](#在线开发环境)
-        - [设计](#设计)
-        - [作图](#作图)
+    - [文件存储](#文件存储)
+    - [网站安全](#网站安全)
+    - [图片处理](#图片处理)
+    - [视频下载](#视频下载)
+    - [API](#api)
+    - [正则表达式](#正则表达式)
+    - [前端](#前端)
+    - [工具集合](#工具集合)
+    - [服务器](#服务器)
+    - [素材](#素材)
+    - [在线开发环境](#在线开发环境)
+    - [设计](#设计)
+    - [作图](#作图)
+    - [日志分析](#日志分析)
+    - [资源下载](#资源下载)
 
 # 博客
 
@@ -109,12 +110,11 @@
 
 # 工具
 
-## 在线工具
-
-### 图床
+## 文件存储
 - [SM.MS](https://sm.ms/) - 图床服务，速度快，比较稳定。
+- [transfer.sh](https://transfer.sh/) - 在线文件分享，文件可以通过命令行上传，最多保存 14 天。[![transfer.sh](/media/github.svg)](https://github.com/dutchcoders/transfer.sh/)
 
-### 网站安全
+## 网站安全
 - [hstspreload.org](https://hstspreload.org/) - 检查网站是否支持 HSTS。[![hstspreload.org](/media/github.svg)](https://github.com/chromium/hstspreload.org/)
 - [W3Techs](https://w3techs.com/sites) - 检索特定站点正在使用的技术。
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) - 站点 SSL Web 服务配置分析。
@@ -122,23 +122,25 @@
 - [SSL For Free](https://www.sslforfree.com/) - 免费 SSL 证书申请。
 - [HTTP/2 support test](https://cdnsun.com/knowledgebase/tools/http2-support-test) - 检查站点是否支持 HTTP/2。
 
-### 图片处理
+## 图片处理
 - [Convertio](https://convertio.co/zh/) - 各种格式的文件互相转换。
 - [waifu2x](http://waifu2x.udp.jp/) - 使用卷积神经网络对动漫风格的图片进行放大。[![waifu2x](/media/github.svg)](https://github.com/nagadomi/waifu2x/)
 - [Picdiet](https://www.picdiet.com/) - 在线批量压缩图片。
 - [Duri.me](https://duri.me/) - 上传图片，将图片转换为 CSS、DataURI 或者 HTML。[![duri.me](/media/github.svg)](https://github.com/HelloTiago/duri.me/)
 - [搞定抠图](https://www.gaoding.com/koutu) - 在线抠图。
+- [GifCam](http://blog.bahraniapps.com/gifcam/) - Gif 图制作。
+- [Color Picker](http://annystudio.com/software/colorpicker/) - 选色器。
 
-### 视频下载
+## 视频下载
 - [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
 
-### API
+## API
 - [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
 
-### 正则表达式
+## 正则表达式
 [regexr](https://regexr.com/) - 在线创建、测试以及学习正则表达式。[![regexr](/media/github.svg)](https://github.com/gskinner/regexr/)
 
-### 前端
+## 前端
 - [You might not need jQuery](http://youmightnotneedjquery.com/) - 教你如何使用原生 JavaScript 替换对应的 jQuery 代码。[![youmightnotneedjquery](/media/github.svg)](https://github.com/HubSpot/YouMightNotNeedjQuery/)
 - [Minify your JavaScript](https://javascript-minifier.com/) - JavaScript 代码压缩。
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) - 检查现代网络技术的浏览器支持程度。
@@ -146,21 +148,22 @@
 - [stackshare](https://stackshare.io/) - 提供各种软件和技术栈的比较，并提供使用它们的公司。
 - [HTML5 TEST](http://html5test.com/) - 检查你的浏览器对于 HTML5 的支持度。
 
-### 工具集合
+## 工具集合
 - [tool.lu](https://tool.lu/) - 在线工具集合。
 - [ATOOL](http://www.atool.org/) - 在线工具集合。
 - [Hurricane Electric BGP Toolkit](https://bgp.he.net/) - BGP 查询，全球域名排行查询等。
+- [patorjk.com](http://patorjk.com/) - 作者叫 patorjk，网站里边有很多有用的工具。
 
-### 服务器
+## 服务器
 - [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
 
-### 素材
+## 素材
 - [Shields.io](https://shields.io/) - 在线制作徽章。[![shields](/media/github.svg)](https://github.com/badges/shields/)
 - [iconfont](https://www.iconfont.cn/) - 阿里巴巴矢量图标库。
 - [easyicon](https://www.easyicon.net/) - 图标下载。
 - [loading.io](https://loading.io/) - 在线生成加载图标。
 
-### 在线开发环境
+## 在线开发环境
 - [Repl.it](https://repl.it/) - 提供各种语言的在线开发环境。
 - [JSFiddle](https://jsfiddle.net/) - 在线编辑和测试 HTML、CSS 和 JavaScript 代码片段，同时可以分享给他人或嵌入页面。
 - [RunJS](https://runjs.cn/) - 在线编辑、展示、分享、交流你的 JavaScript 代码。
@@ -170,13 +173,20 @@
 - [Thimble](https://thimble.mozilla.org/) - Thimble 是一个在线代码编辑器，用它可以很轻松地创建和发布一个您自己的网页。
 - [CodeSandbox](https://codesandbox.io/) - 在线创建前端项目。[![CodeSandbox](/media/github.svg)](https://github.com/CompuIves/codesandbox-client/)
 
-### 设计
+## 设计
 - [Color Hunt](https://colorhunt.co/) - 色彩搭配。
 - [COOLORS](https://coolors.co/) - 配色方案生成器。
 - [Dribbble](https://dribbble.com/) - 优秀创意作品展示地。
 
-### 作图
+## 作图
 - [ProcessOn](https://www.processon.com/) - 免费在线绘制流程图、思维导图、UI原型图、UML、网络拓扑图、组织结构图等等，实时协作。
 - [asciiflow2](http://asciiflow.com/) - 绘制 ASCII 流程图。[![asciiflow2](/media/github.svg)](https://github.com/lewish/asciiflow2/)
+
+## 日志分析
+- [Bare Tail](http://www.baremetalsoft.com/baretail/) - 动态查看日志文件，Windows 平台下的 tail。
+
+## 资源下载
+- [I Tell You](https://msdn.itellyou.cn/) - 很早的站了，以前下系统经常去这里下载。
+- [Fossies](https://fossies.org/) - 开源软件整理归档。
 
 <br>[⬆ Back to top](#目录)
