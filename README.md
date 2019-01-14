@@ -16,7 +16,6 @@
     - [文件存储](#文件存储)
     - [网站安全](#网站安全)
     - [图片处理](#图片处理)
-    - [视频下载](#视频下载)
     - [API](#api)
     - [正则表达式](#正则表达式)
     - [前端](#前端)
@@ -131,9 +130,6 @@
 - [GifCam](http://blog.bahraniapps.com/gifcam/) - Gif 图制作。
 - [Color Picker](http://annystudio.com/software/colorpicker/) - 选色器。
 
-## 视频下载
-- [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
-
 ## API
 - [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
 
@@ -183,10 +179,11 @@
 - [asciiflow2](http://asciiflow.com/) - 绘制 ASCII 流程图。[![asciiflow2](/media/github.svg)](https://github.com/lewish/asciiflow2/)
 
 ## 日志分析
-- [Bare Tail](http://www.baremetalsoft.com/baretail/) - 动态查看日志文件，Windows 平台下的 tail。
+- [BareTail](http://www.baremetalsoft.com/baretail/) - 动态查看日志文件，Windows 平台下的 tail。
 
 ## 资源下载
 - [I Tell You](https://msdn.itellyou.cn/) - 很早的站了，以前下系统经常去这里下载。
 - [Fossies](https://fossies.org/) - 开源软件整理归档。
+- [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
 
 <br>[⬆ Back to top](#目录)
