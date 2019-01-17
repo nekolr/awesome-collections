@@ -27,6 +27,7 @@
     - [作图](#作图)
     - [日志分析](#日志分析)
     - [资源下载](#资源下载)
+    - [SSH](#ssh)
 
 # 博客
 
@@ -185,5 +186,9 @@
 - [I Tell You](https://msdn.itellyou.cn/) - 很早的站了，以前下系统经常去这里下载。
 - [Fossies](https://fossies.org/) - 开源软件整理归档。
 - [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
+
+## SSH
+- [Mobaxterm](https://mobaxterm.mobatek.net/) - 比较全能的 ssh 客户端，有内建的 SFTP，方便文件传输。
+- [WinSCP](https://winscp.net/eng/index.php) - WinSCP 提供图形化的界面，能使用 FTP、FTPS、SCP、SFTP 等协议在本地 Windows 与远程主机之间复制文件。
 
 <br>[⬆ Back to top](#目录)
