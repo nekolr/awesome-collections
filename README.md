@@ -183,7 +183,7 @@
 - [BareTail](http://www.baremetalsoft.com/baretail/) - 动态查看日志文件，Windows 平台下的 tail。
 
 ## 资源下载
-- [I Tell You](https://msdn.itellyou.cn/) - 很早的站了，以前下系统经常去这里下载。
+- [I Tell You](https://msdn.itellyou.cn/) - 很早的站了，以前下载操作系统经常去这里。
 - [Fossies](https://fossies.org/) - 开源软件整理归档。
 - [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
 
