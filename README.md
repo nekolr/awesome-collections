@@ -190,5 +190,6 @@
 ## SSH
 - [Mobaxterm](https://mobaxterm.mobatek.net/) - 比较全能的 ssh 客户端，有内建的 SFTP，方便文件传输。
 - [WinSCP](https://winscp.net/eng/index.php) - WinSCP 提供图形化的界面，能使用 FTP、FTPS、SCP、SFTP 等协议在本地 Windows 与远程主机之间复制文件。
+- [PuTTY](https://www.putty.org/) - PuTTY 灵活小巧，功能齐全，免安装。
 
 <br>[⬆ Back to top](#目录)
