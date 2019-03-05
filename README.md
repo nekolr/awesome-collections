@@ -80,6 +80,7 @@
 - [酷壳](https://coolshell.cn/) - 陈皓大神的个人博客。
 - [程序师](http://www.techug.com/) - 程序师视野博客。
 - [芋道源码](http://www.iocoder.cn/) - 纯源码解析博客。[![](/media/github.svg "芋道的 Github")](https://github.com/YunaiV/)
+- [Python 编程时光](https://www.cnblogs.com/wongbingming/) - 讲解 Python 的文章居多，适合 Python 入门。
 
 ## 团队博客
 - [美团技术团队](https://tech.meituan.com/) - 美团技术团队的博客。
