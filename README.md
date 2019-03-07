@@ -50,7 +50,6 @@
 - [会编程的银猪](https://www.yinchengli.com/) - 专注于前端技术。
 - [田小波](https://www.tianxiaobo.com/) - Java 程序员。[![](/media/github.svg "田小波的 Github")](https://github.com/code4wt/)
 - [MARKSZ](https://molunerfinn.com/) - 前端开发者，全栈工程师。[![](/media/github.svg "MARKSZ 的 Github")](https://github.com/Molunerfinn/)
-- [Madlifer](https://madevo.net/) - 运维笔记。
 - [Charles](http://oserror.com/) - 蚂蚁金服 OceanBase 团队成员，专注高性能服务端编程和分布式系统相关。[![](/media/github.svg "Charles0429 的 Github")](https://github.com/Charles0429/)
 - [EtherDream](https://www.cnblogs.com/index-html/) - 专注前端安全。
 - [Break易站](https://www.breakyizhan.com/) - 教程居多，适合入门。
@@ -87,8 +86,6 @@
 - [有赞技术团队](https://tech.youzan.com/) - 有赞技术团队的博客。
 - [OneAPM](http://blog.oneapm.com/) - OneAPM 官方博客。
 - [阿里中间件团队](http://jm.taobao.org/) - 阿里中间件团队的博客。
-- [阿里巴巴国际 UED 团队](http://www.aliued.com/) - 阿里巴巴国际 UED 团队的博客。
-- [有一点](http://www.aliued.cn/) - 阿里巴巴中文站 UED 的博客。
 
 # 社区
 
