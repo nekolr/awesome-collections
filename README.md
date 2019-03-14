@@ -190,4 +190,7 @@
 - [WinSCP](https://winscp.net/eng/index.php) - WinSCP 提供图形化的界面，能使用 FTP、FTPS、SCP、SFTP 等协议在本地 Windows 与远程主机之间复制文件。
 - [PuTTY](https://www.putty.org/) - PuTTY 灵活小巧，功能齐全，免安装。
 
+## 代码
+- [Ubuntu Pastebin](https://paste.ubuntu.com/) - 代码发布网站，不需要注册，方便分享代码。
+
 <br>[⬆ Back to top](#目录)
