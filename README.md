@@ -30,6 +30,7 @@
     - [SSH](#ssh)
     - [代码](#代码)
     - [Emoji](#emoji)
+- [有意思的网站](#有意思的网站)
 
 # 博客
 
@@ -199,5 +200,11 @@
 - [iOS Emoji](http://punchdrunker.github.io/iOSEmoji/table_html/index.html) - iOS 5 中使用的 unicode6 emoji 的信息。[![iOSEmoji](/media/github.svg)](https://github.com/punchdrunker/iOSEmoji/)
 - [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - 收录了大量的 Emoji。
 - [Emojipedia](https://emojipedia.org/) - 目前为止感觉收录最全的网站，一般我找 Emoji 都去这里。
+
+# 有意思的网站
+- [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
+- [丸太運輸株式会社](http://www.maruta.co.jp/) - 丸太运输株式会社官网。
+- [岡山市のレトロモダンな雑貨・和風ファッションのお店／はなみち舎](http://hanamichiya.jp/) - 冈山的复古现代商品/日本时装店。
+- [黑川温泉旅馆](http://www.sanga-ryokan.com/) - 黑川温泉旅馆官网。
 
 <br>[⬆ Back to top](#目录)
