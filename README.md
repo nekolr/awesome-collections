@@ -29,6 +29,7 @@
     - [资源下载](#资源下载)
     - [SSH](#ssh)
     - [代码](#代码)
+    - [Emoji](#emoji)
 
 # 博客
 
@@ -193,5 +194,10 @@
 
 ## 代码
 - [Ubuntu Pastebin](https://paste.ubuntu.com/) - 代码发布网站，不需要注册，方便分享代码。
+
+## Emoji
+- [iOS Emoji](http://punchdrunker.github.io/iOSEmoji/table_html/index.html) - iOS 5 中使用的 unicode6 emoji 的信息。[![iOSEmoji](/media/github.svg)](https://github.com/punchdrunker/iOSEmoji/)
+- [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - 收录了大量的 Emoji。
+- [Emojipedia](https://emojipedia.org/) - 目前为止感觉收录最全的网站，一般我找 Emoji 都去这里。
 
 <br>[⬆ Back to top](#目录)
