@@ -145,6 +145,8 @@
 - [jsPerf](https://jsperf.com/) - 在线创建 JavaScript 测试用例，运行基准测试来比较不同代码段的性能。
 - [stackshare](https://stackshare.io/) - 提供各种软件和技术栈的比较，并提供使用它们的公司。
 - [HTML5 TEST](http://html5test.com/) - 检查你的浏览器对于 HTML5 的支持度。
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - HTML/CSS 教程。
+- [学习 CSS 布局](http://zh.learnlayout.com/) - 学习 CSS 布局。
 
 ## 工具集合
 - [tool.lu](https://tool.lu/) - 在线工具集合。
