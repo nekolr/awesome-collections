@@ -202,6 +202,7 @@
 - [iOS Emoji](http://punchdrunker.github.io/iOSEmoji/table_html/index.html) - iOS 5 中使用的 unicode6 emoji 的信息。[![iOSEmoji](/media/github.svg)](https://github.com/punchdrunker/iOSEmoji/)
 - [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - 收录了大量的 Emoji。
 - [Emojipedia](https://emojipedia.org/) - 目前为止感觉收录最全的网站，一般我找 Emoji 都去这里。
+- [Emoji searcher](https://emoji.muan.co/) - 寻找让你回味的 emoji。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
