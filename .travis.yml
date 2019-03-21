@@ -9,4 +9,5 @@ script:
     # www.awesomes.cn
     # regexr.com
     # html5test.com
-- awesome_bot README.md --allow-redirect -w www.techug.com,www.awesomes.cn,regexr.com,html5test.com
+    # calvin1978.blogcn.com
+- awesome_bot README.md --allow-redirect -w www.techug.com,www.awesomes.cn,regexr.com,html5test.com,calvin1978.blogcn.com

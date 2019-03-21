@@ -30,6 +30,7 @@
     - [SSH](#ssh)
     - [代码](#代码)
     - [Emoji](#emoji)
+    - [文档](#文档)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -189,6 +190,8 @@
 - [I Tell You](https://msdn.itellyou.cn/) - 很早的站了，以前下载操作系统经常去这里。
 - [Fossies](https://fossies.org/) - 开源软件整理归档。
 - [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
+- [softonic](https://en.softonic.com/) - 软件下载站，不同平台的软件都有提供，而且有中文站。
+- [pexels](https://www.pexels.com/videos/) - 质量很高的视频素材下载站，素材完全免费，基于 COO 协议授权。
 
 ## SSH
 - [Mobaxterm](https://mobaxterm.mobatek.net/) - 比较全能的 ssh 客户端，有内建的 SFTP，方便文件传输。
@@ -203,6 +206,9 @@
 - [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - 收录了大量的 Emoji。
 - [Emojipedia](https://emojipedia.org/) - 目前为止感觉收录最全的网站，一般我找 Emoji 都去这里。
 - [Emoji searcher](https://emoji.muan.co/) - 寻找让你回味的 emoji。
+
+## 文档
+[DocTranslator](https://www.onlinedoctranslator.com/) - 提供在线文档翻译和文档格式转换，无需注册，免费使用。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
