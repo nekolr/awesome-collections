@@ -31,6 +31,7 @@
     - [代码](#代码)
     - [Emoji](#emoji)
     - [文档](#文档)
+    - [录制](#录制)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -209,6 +210,9 @@
 
 ## 文档
 - [DocTranslator](https://www.onlinedoctranslator.com/) - 提供在线文档翻译和文档格式转换，无需注册，免费使用。
+
+## 录制
+- [asciinema](https://asciinema.org/) - 终端录屏神器。[![asciinema](/media/github.svg)](https://github.com/asciinema/asciinema/)
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
