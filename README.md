@@ -33,6 +33,7 @@
     - [文档](#文档)
     - [录制](#录制)
     - [流行趋势](#流行趋势)
+    - [包仓库](#包仓库)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -112,6 +113,8 @@
 - [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，取名源自《黑客与画家》。
 - [技术宅](https://jszbug.com/) - 技术宅，专注分享，专注技术！分享互联网科技新闻轶事，分享生活小常识，各种数码使用小技巧！
 - [Go语言中文网](https://studygolang.com/) - Golang 中文社区。
+- [Golang 中国](https://www.golangtc.com/) - Golang 中国。[![golangtc.com](/media/github.svg)](https://github.com/jimmykuu/gopher/)
+- [Ruby China](https://ruby-china.org/) - Ruby China 社区。
 
 # 工具
 
@@ -195,6 +198,8 @@
 - [Fossies](https://fossies.org/) - 开源软件整理归档。
 - [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
 - [softonic](https://en.softonic.com/) - 软件下载站，不同平台的软件都有提供，而且有中文站。
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/) - 清华大学开源软件镜像站。[![mirror-web](/media/github.svg)](https://github.com/tuna/mirror-web)
+- [Another infinity](http://mirrors.ustc.edu.cn/) - 中国科学技术大学开源软件镜像站。
 
 ## SSH
 - [Mobaxterm](https://mobaxterm.mobatek.net/) - 比较全能的 ssh 客户端，有内建的 SFTP，方便文件传输。
@@ -219,6 +224,12 @@
 ## 流行趋势
 - [DB-Engines](https://db-engines.com/en/) - 数据库流行程度统计。
 - [State.of.dev](https://stateofdev.com/) - 根据**技术热门度曲线**模型（Gartner Hype Cycle），进行数据分析提供的各种技术的热门程度图。[![State.of.dev](/media/github.svg)](https://github.com/state-of/dev/)
+
+## 包仓库
+- [mvn repository](https://mvnrepository.com/) - Maven 依赖查询网站，可以下载、搜索包。
+- [pypi](https://pypi.org/) - Python 官方包仓库，支持查询、下载。
+- [gopm](https://gopm.io/) - Golang 非官方包仓库，支持查询、下载、命令行使用。[![gopm](/media/github.svg)](https://github.com/gpmgo/gopm/)
+- [npm](https://www.npmjs.com/) - NPM 官方包仓库，支持查询、下载。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
