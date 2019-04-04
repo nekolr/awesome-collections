@@ -106,10 +106,11 @@
 - [Linux 中国](https://linux.cn/) - Linux 中国。
 - [TesterHome](https://testerhome.com/) - 公益性的测试技术社区，致力于推动测试行业的技术发展。
 - [Spring For All](http://www.spring4all.com/) - Spring For All 垂直技术社区，国内首个 Spring 及 Spring Cloud 构建微服务架构的交流社区。
-- [安全客](https://www.anquanke.com/) - 为广大安全爱好者和安全从业人员提供权威信息发布的漏洞信息、安全资讯、安全知识及安全活动的一站式安全平台。 
+- [安全客](https://www.anquanke.com/) - 为广大安全爱好者和安全从业人员提供权威信息发布的漏洞信息、安全资讯、安全知识及安全活动的一站式安全平台。
 - [SSL中国](https://www.sslchina.com/) - 关注网络安全和行业未来。
 - [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，取名源自《黑客与画家》。
 - [技术宅](https://jszbug.com/) - 技术宅，专注分享，专注技术！分享互联网科技新闻轶事，分享生活小常识，各种数码使用小技巧！
+- [Go语言中文网](https://studygolang.com/) - Golang 中文社区。
 
 # 工具
 
