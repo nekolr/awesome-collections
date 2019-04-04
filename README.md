@@ -32,6 +32,7 @@
     - [Emoji](#emoji)
     - [文档](#文档)
     - [录制](#录制)
+    - [流行趋势](#流行趋势)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -214,6 +215,10 @@
 
 ## 录制
 - [asciinema](https://asciinema.org/) - 终端录屏神器。[![asciinema](/media/github.svg)](https://github.com/asciinema/asciinema/)
+
+## 流行趋势
+- [DB-Engines](https://db-engines.com/en/) - 数据库流行程度统计。
+- [State.of.dev](https://stateofdev.com/) - 根据**技术热门度曲线**模型（Gartner Hype Cycle），进行数据分析提供的各种技术的热门程度图。[![State.of.dev](/media/github.svg)](https://github.com/state-of/dev/)
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
