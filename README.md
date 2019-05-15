@@ -170,6 +170,7 @@
 - [easyicon](https://www.easyicon.net/) - 图标下载。
 - [loading.io](https://loading.io/) - 在线生成加载图标。
 - [pexels](https://www.pexels.com/videos/) - 质量很高的视频素材下载站，素材完全免费，基于 COO 协议授权。
+- [RemixIcon](https://remixicon.com/) - 一套开源的图标库。[![RemixIcon](/media/github.svg)](https://github.com/Remix-Design/RemixIcon/)
 
 ## 在线开发环境
 - [Repl.it](https://repl.it/) - 提供各种语言的在线开发环境。
