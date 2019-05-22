@@ -34,6 +34,7 @@
     - [录制](#录制)
     - [流行趋势](#流行趋势)
     - [包仓库](#包仓库)
+    - [Github](#github)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -231,6 +232,12 @@
 - [pypi](https://pypi.org/) - Python 官方包仓库，支持查询、下载。
 - [gopm](https://gopm.io/) - Golang 非官方包仓库，支持查询、下载、命令行使用。[![gopm](/media/github.svg)](https://github.com/gpmgo/gopm/)
 - [npm](https://www.npmjs.com/) - NPM 官方包仓库，支持查询、下载。
+
+## Github
+- [octotree](https://www.octotree.io/) - Chrome 扩展程序，提供 Github 项目目录快捷导航。[![octotree](/media/github.svg)](https://github.com/ovity/octotree/)
+- [Enhanced Github](https://github.com/softvar/enhanced-github/) - Chrome 扩展程序，能够显示仓库大小，以及每个文件的下载链接。[![Enhanced Github](/media/github.svg)](https://github.com/softvar/enhanced-github/)
+- [sourcegraph](https://sourcegraph.com) - 知名代码查看和搜索的工具，提供 Chrome 扩展程序。[![sourcegraph](/media/github.svg)](https://github.com/sourcegraph/sourcegraph/)
+- [Astral](https://astralapp.com/) - 标签式在线管理 Github Stars。[![Astral](/media/github.svg)](https://github.com/astralapp/astral/)
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
