@@ -35,6 +35,7 @@
     - [流行趋势](#流行趋势)
     - [包仓库](#包仓库)
     - [Github](#github)
+    - [国际化](#国际化)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -140,6 +141,7 @@
 - [GifCam](http://blog.bahraniapps.com/gifcam/) - Gif 图制作。
 - [Color Picker](http://annystudio.com/software/colorpicker/) - 选色器。
 - [removebg](https://www.remove.bg/) - 在线图片处理，自动删除图片的背景（抠人物），同时提供各个平台的客户端。
+- [img.top](https://img.top/) - 智能图像压缩，支持 PNG、JPG、GIF 等格式。
 
 ## API
 - [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
@@ -172,6 +174,7 @@
 - [loading.io](https://loading.io/) - 在线生成加载图标。
 - [pexels](https://www.pexels.com/videos/) - 质量很高的视频素材下载站，素材完全免费，基于 COO 协议授权。
 - [RemixIcon](https://remixicon.com/) - 一套开源的图标库。[![RemixIcon](/media/github.svg)](https://github.com/Remix-Design/RemixIcon/)
+- [Evie](https://evie.undraw.co/) - Evie 是麻省理工学院许可的网页模板，可以更快地构建网站。它非常轻巧，可定制，可在现代浏览器上完美运行。
 
 ## 在线开发环境
 - [Repl.it](https://repl.it/) - 提供各种语言的在线开发环境。
@@ -239,6 +242,9 @@
 - [Enhanced Github](https://github.com/softvar/enhanced-github/) - Chrome 扩展程序，能够显示仓库大小，以及每个文件的下载链接。[![Enhanced Github](/media/github.svg)](https://github.com/softvar/enhanced-github/)
 - [sourcegraph](https://sourcegraph.com) - 知名代码查看和搜索的工具，提供 Chrome 扩展程序。[![sourcegraph](/media/github.svg)](https://github.com/sourcegraph/sourcegraph/)
 - [Astral](https://astralapp.com/) - 标签式在线管理 Github Stars。[![Astral](/media/github.svg)](https://github.com/astralapp/astral/)
+
+## 国际化
+- [国际化翻译搜索](https://i18ns.com/zh/index.html) - 一个多语言翻译搜索引擎，有 2000 多万条翻译数据。支持 11 国语言搜索，可以帮助开发者用低成本完成软件国际化。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
