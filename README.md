@@ -142,6 +142,7 @@
 - [Color Picker](http://annystudio.com/software/colorpicker/) - 选色器。
 - [removebg](https://www.remove.bg/) - 在线图片处理，自动删除图片的背景（抠人物），同时提供各个平台的客户端。
 - [img.top](https://img.top/) - 智能图像压缩，支持 PNG、JPG、GIF 等格式。
+- [tinypng](https://tinypng.com/) - 智能压缩 PNG 和 JPEG 图片。
 
 ## API
 - [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
