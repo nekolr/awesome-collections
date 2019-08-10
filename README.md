@@ -143,6 +143,8 @@
 - [removebg](https://www.remove.bg/) - 在线图片处理，自动删除图片的背景（抠人物），同时提供各个平台的客户端。
 - [img.top](https://img.top/) - 智能图像压缩，支持 PNG、JPG、GIF 等格式。
 - [tinypng](https://tinypng.com/) - 智能压缩 PNG 和 JPEG 图片。
+- [Screely](https://www.screely.com/) - 给图片加上窗口效果的工具。
+- [Screenzy](https://screenzy.io/) - 同样是给图片加窗口效果的工具，但是比 Screely 多了很多功能。
 
 ## API
 - [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
@@ -192,10 +194,14 @@
 - [Color Hunt](https://colorhunt.co/) - 色彩搭配。
 - [COOLORS](https://coolors.co/) - 配色方案生成器。
 - [Dribbble](https://dribbble.com/) - 优秀创意作品展示地。
+- [lottiefiles](https://lottiefiles.com/) - Lottie官方动画社区。
 
 ## 作图
 - [ProcessOn](https://www.processon.com/) - 免费在线绘制流程图、思维导图、UI原型图、UML、网络拓扑图、组织结构图等等，实时协作。
-- [asciiflow2](http://asciiflow.com/) - 绘制 ASCII 流程图。[![asciiflow2](/media/github.svg)](https://github.com/lewish/asciiflow2/)
+- [asciiflow2](http://asciiflow.com/) - 在线绘制 ASCII 流程图。[![asciiflow2](/media/github.svg)](https://github.com/lewish/asciiflow2/)
+- [Draw.io](https://www.draw.io/) - 专业开源在线作图工具，无需注册。
+- [Zen Flowchart](https://www.zenflowchart.com/) - 简单但功能齐全的在线作图工具。
+- [Whimsical](https://whimsical.com/) - 一个专注于用户体验和团队协作的在线作图工具。
 
 ## 日志分析
 - [BareTail](http://www.baremetalsoft.com/baretail/) - 动态查看日志文件，Windows 平台下的 tail。
@@ -216,6 +222,10 @@
 
 ## 代码
 - [Ubuntu Pastebin](https://paste.ubuntu.com/) - 代码发布网站，不需要注册，方便分享代码。
+- [CodeZen](http://codezen.rishimohan.me/) - 简约的代码转图片的工具。
+- [codeimg](https://codeimg.io/) - 将代码转为图片的工具，功能相对较多。
+- [carbon](https://carbon.now.sh/) - 开源代码转图片的工具。[![carbon](/media/github.svg)](https://github.com/dawnlabs/carbon)
+- [glorious-demo](https://glorious.codes/demo/) - 制作代码动画的工具。[![glorious-demo](/media/github.svg)](https://github.com/glorious-codes/glorious-demo)
 
 ## Emoji
 - [iOS Emoji](http://punchdrunker.github.io/iOSEmoji/table_html/index.html) - iOS 5 中使用的 unicode6 emoji 的信息。[![iOSEmoji](/media/github.svg)](https://github.com/punchdrunker/iOSEmoji/)
@@ -228,6 +238,7 @@
 
 ## 录制
 - [asciinema](https://asciinema.org/) - 终端录屏神器。[![asciinema](/media/github.svg)](https://github.com/asciinema/asciinema/)
+- [screen-guru](https://screen.guru/) - 提供网页截图的功能，输入网址即可生成页面窗口图片。[![screen-guru](/media/github.svg)](https://github.com/premieroctet/screen-guru/)
 
 ## 流行趋势
 - [DB-Engines](https://db-engines.com/en/) - 数据库流行程度统计。
