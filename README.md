@@ -253,5 +253,6 @@
 - [丸太運輸株式会社](http://www.maruta.co.jp/) - 丸太运输株式会社官网。
 - [岡山市のレトロモダンな雑貨・和風ファッションのお店／はなみち舎](http://hanamichiya.jp/) - 冈山的复古现代商品/日本时装店。
 - [黑川温泉旅馆](http://www.sanga-ryokan.com/) - 黑川温泉旅馆官网。
+- [中国色](http://zhongguose.com/) - 中国传统颜色大全。
 
 <br>[⬆ Back to top](#目录)
