@@ -247,7 +247,6 @@
 ## 包仓库
 - [mvn repository](https://mvnrepository.com/) - Maven 依赖查询网站，可以下载、搜索包。
 - [pypi](https://pypi.org/) - Python 官方包仓库，支持查询、下载。
-- [gopm](https://gopm.io/) - Golang 非官方包仓库，支持查询、下载、命令行使用。[![gopm](/media/github.svg)](https://github.com/gpmgo/gopm/)
 - [npm](https://www.npmjs.com/) - NPM 官方包仓库，支持查询、下载。
 
 ## Github
