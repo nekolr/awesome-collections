@@ -86,7 +86,7 @@
 - [说好不能打脸](https://blog.csdn.net/yinwenjie/) - CSDN 博客专家，专注于 Java。
 - [John Resig](https://johnresig.com/category/blog/) - jQuery 创始人。
 - [酷壳](https://coolshell.cn/) - 陈皓大神的个人博客。
-- [程序师](http://www.techug.com/) - 程序师视野博客。
+- [程序师](https://www.techug.com/) - 程序师视野博客。
 - [芋道源码](http://www.iocoder.cn/) - 纯源码解析博客。[![](/media/github.svg "芋道的 Github")](https://github.com/YunaiV/)
 - [Python 编程时光](https://www.cnblogs.com/wongbingming/) - 讲解 Python 的文章居多，适合 Python 入门。
 
@@ -103,7 +103,6 @@
 - [SegmentFault](https://segmentfault.com/) - 思否，为开发者提供问答、学习与交流编程知识的平台。
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区。
 - [V2EX](https://www.v2ex.com/) - 一个关于分享和探索的地方。
-- [ImportNew](http://www.importnew.com/) - 专注于 Java 技术分享。
 - [简明现代魔法](http://www.nowamagic.net/) - 一个神奇的 IT 社区。
 - [Div.IO](https://div.io/) - 高质量前端资源汇聚。
 - [awesomes.cn](https://www.awesomes.cn/) - 由全国的开发者共同维护，打造开放自由免费的高质量前端资源库。
@@ -166,6 +165,7 @@
 - [tool.lu](https://tool.lu/) - 在线工具集合。
 - [Hurricane Electric BGP Toolkit](https://bgp.he.net/) - BGP 查询，全球域名排行查询等。
 - [patorjk.com](http://patorjk.com/) - 作者叫 patorjk，网站里边有很多有用的工具。
+- [swiss file knife](http://stahlworks.com/dev/swiss-file-knife.html) - 一个命令行工具集合。其中的 hexdump 功能很实用，类似于 Linux 中的 hexdump。
 
 ## 服务器
 - [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
