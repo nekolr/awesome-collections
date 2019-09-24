@@ -186,7 +186,7 @@
 - [RunJS](https://runjs.cn/) - 在线编辑、展示、分享、交流你的 JavaScript 代码。
 - [JSRUN](http://jsrun.net/) - HTML/JS/CSS在线编辑器。
 - [CodePen](https://codepen.io/) - 在线编辑 HTML、CSS 和 JavaScript，并且有很多优秀的作品展示。
-- [JS Bin](http://html5test.com/) - 在线编辑 HTML、CSS 和 JavaScript。
+- [JS Bin](http://jsbin.com) - 在线编辑 HTML、CSS 和 JavaScript。
 - [Thimble](https://thimble.mozilla.org/) - Thimble 是一个在线代码编辑器，用它可以很轻松地创建和发布一个您自己的网页。
 - [CodeSandbox](https://codesandbox.io/) - 在线创建前端项目。[![CodeSandbox](/media/github.svg)](https://github.com/CompuIves/codesandbox-client/)
 - [awesome-online-ide](https://github.com/styfle/awesome-online-ide/) - 在线开发环境集合。[![awesome-online-ide](/media/github.svg)](https://github.com/styfle/awesome-online-ide/)
