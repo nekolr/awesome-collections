@@ -36,6 +36,7 @@
     - [包仓库](#包仓库)
     - [Github](#github)
     - [国际化](#国际化)
+    - [英语学习](#英语学习)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -86,7 +87,7 @@
 - [说好不能打脸](https://blog.csdn.net/yinwenjie/) - CSDN 博客专家，专注于 Java。
 - [John Resig](https://johnresig.com/category/blog/) - jQuery 创始人。
 - [酷壳](https://coolshell.cn/) - 陈皓大神的个人博客。
-- [程序师](http://www.techug.com/) - 程序师视野博客。
+- [程序师](https://www.techug.com/) - 程序师视野博客。
 - [芋道源码](http://www.iocoder.cn/) - 纯源码解析博客。[![](/media/github.svg "芋道的 Github")](https://github.com/YunaiV/)
 - [Python 编程时光](https://www.cnblogs.com/wongbingming/) - 讲解 Python 的文章居多，适合 Python 入门。
 - [Java码猿-书生个人博客](https://www.nonelonely.com/) - 一个以 Java 为主的博客，有很多资源（电子书）可以下载。
@@ -104,7 +105,6 @@
 - [SegmentFault](https://segmentfault.com/) - 思否，为开发者提供问答、学习与交流编程知识的平台。
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区。
 - [V2EX](https://www.v2ex.com/) - 一个关于分享和探索的地方。
-- [ImportNew](http://www.importnew.com/) - 专注于 Java 技术分享。
 - [简明现代魔法](http://www.nowamagic.net/) - 一个神奇的 IT 社区。
 - [Div.IO](https://div.io/) - 高质量前端资源汇聚。
 - [awesomes.cn](https://www.awesomes.cn/) - 由全国的开发者共同维护，打造开放自由免费的高质量前端资源库。
@@ -167,6 +167,7 @@
 - [tool.lu](https://tool.lu/) - 在线工具集合。
 - [Hurricane Electric BGP Toolkit](https://bgp.he.net/) - BGP 查询，全球域名排行查询等。
 - [patorjk.com](http://patorjk.com/) - 作者叫 patorjk，网站里边有很多有用的工具。
+- [swiss file knife](http://stahlworks.com/dev/swiss-file-knife.html) - 一个命令行工具集合。其中的 hexdump 功能很实用，类似于 Linux 中的 hexdump。
 
 ## 服务器
 - [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
@@ -186,7 +187,7 @@
 - [RunJS](https://runjs.cn/) - 在线编辑、展示、分享、交流你的 JavaScript 代码。
 - [JSRUN](http://jsrun.net/) - HTML/JS/CSS在线编辑器。
 - [CodePen](https://codepen.io/) - 在线编辑 HTML、CSS 和 JavaScript，并且有很多优秀的作品展示。
-- [JS Bin](http://html5test.com/) - 在线编辑 HTML、CSS 和 JavaScript。
+- [JS Bin](http://jsbin.com) - 在线编辑 HTML、CSS 和 JavaScript。
 - [Thimble](https://thimble.mozilla.org/) - Thimble 是一个在线代码编辑器，用它可以很轻松地创建和发布一个您自己的网页。
 - [CodeSandbox](https://codesandbox.io/) - 在线创建前端项目。[![CodeSandbox](/media/github.svg)](https://github.com/CompuIves/codesandbox-client/)
 - [awesome-online-ide](https://github.com/styfle/awesome-online-ide/) - 在线开发环境集合。[![awesome-online-ide](/media/github.svg)](https://github.com/styfle/awesome-online-ide/)
@@ -248,7 +249,6 @@
 ## 包仓库
 - [mvn repository](https://mvnrepository.com/) - Maven 依赖查询网站，可以下载、搜索包。
 - [pypi](https://pypi.org/) - Python 官方包仓库，支持查询、下载。
-- [gopm](https://gopm.io/) - Golang 非官方包仓库，支持查询、下载、命令行使用。[![gopm](/media/github.svg)](https://github.com/gpmgo/gopm/)
 - [npm](https://www.npmjs.com/) - NPM 官方包仓库，支持查询、下载。
 
 ## Github
@@ -260,10 +260,14 @@
 ## 国际化
 - [国际化翻译搜索](https://i18ns.com/zh/index.html) - 一个多语言翻译搜索引擎，有 2000 多万条翻译数据。支持 11 国语言搜索，可以帮助开发者用低成本完成软件国际化。
 
+## 英语学习
+- [词根词源字典](http://www.etymon.cn) - 英语词根词源字典。
+
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
 - [丸太運輸株式会社](http://www.maruta.co.jp/) - 丸太运输株式会社官网。
 - [岡山市のレトロモダンな雑貨・和風ファッションのお店／はなみち舎](http://hanamichiya.jp/) - 冈山的复古现代商品/日本时装店。
 - [黑川温泉旅馆](http://www.sanga-ryokan.com/) - 黑川温泉旅馆官网。
+- [中国色](http://zhongguose.com/) - 中国传统颜色大全。
 
 <br>[⬆ Back to top](#目录)
