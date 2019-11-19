@@ -90,6 +90,7 @@
 - [程序师](https://www.techug.com/) - 程序师视野博客。
 - [芋道源码](http://www.iocoder.cn/) - 纯源码解析博客。[![](/media/github.svg "芋道的 Github")](https://github.com/YunaiV/)
 - [Python 编程时光](https://www.cnblogs.com/wongbingming/) - 讲解 Python 的文章居多，适合 Python 入门。
+- [Java码猿-书生个人博客](https://www.nonelonely.com/) - 一个以 Java 为主的博客，有很多资源（电子书）可以下载。
 
 ## 团队博客
 - [美团技术团队](https://tech.meituan.com/) - 美团技术团队的博客。
