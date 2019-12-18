@@ -37,6 +37,7 @@
     - [Github](#github)
     - [国际化](#国际化)
     - [英语学习](#英语学习)
+    - [CDN](#cdn)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -263,6 +264,11 @@
 
 ## 英语学习
 - [词根词源字典](http://www.etymon.cn) - 英语词根词源字典。
+
+## CDN
+- [75CDN](https://cdn.baomitu.com/) - 360 前端静态资源库是由奇舞团支持并维护的开源项目免费 CDN 服务，主要同步于 [cdnjs](https://github.com/cdnjs/cdnjs) 仓库。
+- [BootCDN](https://www.bootcdn.cn/) - BootCDN 是 Bootstrap 中文网支持并维护的前端开源项目免费 CDN 服务，主要同步于 [cdnjs](https://github.com/cdnjs/cdnjs) 仓库。
+- [Staticfile CDN](https://www.staticfile.org/) - Staticfile CDN 是由技术社区掘金支持并维护的 CDN 服务。[![Staticfile CDN](/media/github.svg)](https://github.com/staticfile/static)
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
