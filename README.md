@@ -39,6 +39,7 @@
     - [英语学习](#英语学习)
     - [CDN](#cdn)
     - [内网穿透](#内网穿透)
+    - [网络](#网络)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -274,6 +275,10 @@
 
 ## 内网穿透
 - [natapp](https://natapp.cn/) - 偶尔用用不错。
+
+## 网络
+- [ipip](https://tools.ipip.net/newping.php) - ip 查询、全球 ping 查询等。
+- [17ce](https://www.17ce.com/) - 与 ipip 类似。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
