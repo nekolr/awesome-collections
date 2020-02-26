@@ -135,6 +135,7 @@
 - [HTTP Security Report](https://httpsecurityreport.com/) - 站点安全性分析。
 - [SSL For Free](https://www.sslforfree.com/) - 免费 SSL 证书申请。
 - [HTTP/2 support test](https://cdnsun.com/knowledgebase/tools/http2-support-test) - 检查站点是否支持 HTTP/2。
+- [SSL Configuration Generator](https://ssl-config.mozilla.org/) - SSL 服务端配置生成器，mozilla 出品，支持多种服务端。[![SSL Configuration Generator](/media/github.svg)](https://github.com/mozilla/ssl-config-generator/)
 
 ## 图片处理
 - [Convertio](https://convertio.co/zh/) - 各种格式的文件互相转换。
