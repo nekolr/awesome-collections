@@ -59,7 +59,6 @@
 - [bangerlee](http://www.cnblogs.com/bangerlee/) - 腾讯，微信基础平台业务运维。[![](/media/github.svg)](https://github.com/bangerlee/) [![](/media/zhihu.svg)](https://zhihu.com/people/bangerlee/)
 - [终点](https://blog.csdn.net/zhangerqing/) - 前 IBM 员工，《Java之美》系列作者。
 - [S1ngS1ng](http://singsing.io/blog/) - 博文多讲算法。[![](/media/github.svg)](https://github.com/S1ngS1ng/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/liuxing0514/)
-- [熊建刚](http://blog.codingplayboy.com/) - 今日头条前端开发工程师。[![](/media/github.svg)](https://github.com/codingplayboy/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/codingplayboy/)
 - [会编程的银猪](https://www.yinchengli.com/) - 专注于前端技术。
 - [田小波](https://www.tianxiaobo.com/) - Java 程序员。[![](/media/github.svg)](https://github.com/code4wt/)
 - [MARKSZ](https://molunerfinn.com/) - 前端开发者，全栈工程师。[![](/media/github.svg)](https://github.com/Molunerfinn/)
