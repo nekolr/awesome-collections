@@ -59,7 +59,6 @@
 - [bangerlee](http://www.cnblogs.com/bangerlee/) - 腾讯，微信基础平台业务运维。[![](/media/github.svg)](https://github.com/bangerlee/) [![](/media/zhihu.svg)](https://zhihu.com/people/bangerlee/)
 - [终点](https://blog.csdn.net/zhangerqing/) - 前 IBM 员工，《Java之美》系列作者。
 - [S1ngS1ng](http://singsing.io/blog/) - 博文多讲算法。[![](/media/github.svg)](https://github.com/S1ngS1ng/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/liuxing0514/)
-- [熊建刚](http://blog.codingplayboy.com/) - 今日头条前端开发工程师。[![](/media/github.svg)](https://github.com/codingplayboy/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/codingplayboy/)
 - [会编程的银猪](https://www.yinchengli.com/) - 专注于前端技术。
 - [田小波](https://www.tianxiaobo.com/) - Java 程序员。[![](/media/github.svg)](https://github.com/code4wt/)
 - [MARKSZ](https://molunerfinn.com/) - 前端开发者，全栈工程师。[![](/media/github.svg)](https://github.com/Molunerfinn/)
@@ -132,7 +131,6 @@
 - [hstspreload.org](https://hstspreload.org/) - 检查网站是否支持 HSTS。[![hstspreload.org](/media/github.svg)](https://github.com/chromium/hstspreload.org/)
 - [W3Techs](https://w3techs.com/sites) - 检索特定站点正在使用的技术。
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) - 站点 SSL Web 服务配置分析。
-- [HTTP Security Report](https://httpsecurityreport.com/) - 站点安全性分析。
 - [SSL For Free](https://www.sslforfree.com/) - 免费 SSL 证书申请。
 - [HTTP/2 support test](https://cdnsun.com/knowledgebase/tools/http2-support-test) - 检查站点是否支持 HTTP/2。
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/) - SSL 服务端配置生成器，mozilla 出品，支持多种服务端。[![SSL Configuration Generator](/media/github.svg)](https://github.com/mozilla/ssl-config-generator/)
@@ -141,7 +139,6 @@
 - [Convertio](https://convertio.co/zh/) - 各种格式的文件互相转换。
 - [waifu2x](http://waifu2x.udp.jp/) - 使用卷积神经网络对动漫风格的图片进行放大。[![waifu2x](/media/github.svg)](https://github.com/nagadomi/waifu2x/)
 - [Picdiet](https://www.picdiet.com/) - 在线批量压缩图片。
-- [Duri.me](https://duri.me/) - 上传图片，将图片转换为 CSS、DataURI 或者 HTML。[![duri.me](/media/github.svg)](https://github.com/HelloTiago/duri.me/)
 - [搞定抠图](https://www.gaoding.com/koutu) - 在线抠图。
 - [GifCam](http://blog.bahraniapps.com/gifcam/) - Gif 图制作。
 - [Color Picker](http://annystudio.com/software/colorpicker/) - 选色器。
@@ -189,7 +186,6 @@
 ## 在线开发环境
 - [Repl.it](https://repl.it/) - 提供各种语言的在线开发环境。
 - [JSFiddle](https://jsfiddle.net/) - 在线编辑和测试 HTML、CSS 和 JavaScript 代码片段，同时可以分享给他人或嵌入页面。
-- [RunJS](https://runjs.cn/) - 在线编辑、展示、分享、交流你的 JavaScript 代码。
 - [JSRUN](http://jsrun.net/) - HTML/JS/CSS在线编辑器。
 - [CodePen](https://codepen.io/) - 在线编辑 HTML、CSS 和 JavaScript，并且有很多优秀的作品展示。
 - [JS Bin](http://jsbin.com) - 在线编辑 HTML、CSS 和 JavaScript。
