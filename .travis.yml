@@ -3,6 +3,7 @@ rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
+  - bundle exec danger
 script:
   # white list:
     # www.techug.com
