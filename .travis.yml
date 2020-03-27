@@ -3,7 +3,7 @@ rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
-  - bundle exec danger
+  - gem install bundle
 script:
   # white list:
     # www.techug.com
@@ -13,3 +13,4 @@ script:
     # calvin1978.blogcn.com
     # codepen.io
 - awesome_bot README.md --allow-redirect -w www.techug.com,www.awesomes.cn,regexr.com,html5test.com,calvin1978.blogcn.com,codepen.io
+- bundle exec danger
