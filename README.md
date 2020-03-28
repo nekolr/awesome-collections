@@ -40,6 +40,7 @@
     - [CDN](#cdn)
     - [内网穿透](#内网穿透)
     - [网络](#网络)
+    - [投屏](#投屏)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -147,6 +148,9 @@
 - [tinypng](https://tinypng.com/) - 智能压缩 PNG 和 JPEG 图片。
 - [Screely](https://www.screely.com/) - 给图片加上窗口效果的工具。
 - [Screenzy](https://screenzy.io/) - 同样是给图片加窗口效果的工具，但是比 Screely 多了很多功能。
+- [FastStone Capture](https://www.faststone.org/FSCaptureDownload.htm) - Windows 下比较好用的截图工具。
+- [snipaste](https://www.snipaste.com/) - 跨平台的截图工具，截图后编辑更方便。
+- [PicGo](https://molunerfinn.com/PicGo/) - 图片上传工具，跨平台。[![PicGo](/media/github.svg)](https://github.com/Molunerfinn/PicGo/)
 
 ## API
 - [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
@@ -218,6 +222,7 @@
 - [Another infinity](http://mirrors.ustc.edu.cn/) - 中国科学技术大学开源软件镜像站。
 - [OldVersion](http://www.oldversion.cn/) - 可以在这里寻找很多软件以前的发行版本。
 - [163](https://mirrors.163.com/) - 网易开源镜像站。
+- [IDM](http://www.internetdownloadmanager.com/) - 下载工具，建议购买终身授权。
 
 ## SSH
 - [Mobaxterm](https://mobaxterm.mobatek.net/) - 比较全能的 ssh 客户端，有内建的 SFTP，方便文件传输。
@@ -276,6 +281,13 @@
 ## 网络
 - [ipip](https://tools.ipip.net/newping.php) - ip 查询、全球 ping 查询等。
 - [17ce](https://www.17ce.com/) - 与 ipip 类似。
+
+## 投屏
+- [scrcpy](https://github.com/Genymobile/scrcpy) - 安卓投屏软件，可以在 Windows、Linux 和 macOS 上投影并控制安卓设备。
+
+## 压缩/解压
+- [PeaZip](https://www.peazip.org/) - 免费开源的压缩/解压工具，在 Bandizip 开始收费后的唯二选择，就是图标略丑。
+- [7-Zip](https://www.7-zip.org/) - 开源压缩软件，UI 有点拖后腿。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
