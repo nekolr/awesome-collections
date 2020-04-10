@@ -224,6 +224,7 @@
 - [OldVersion](http://www.oldversion.cn/) - 可以在这里寻找很多软件以前的发行版本。
 - [163](https://mirrors.163.com/) - 网易开源镜像站。
 - [IDM](http://www.internetdownloadmanager.com/) - 下载工具，建议购买终身授权。
+- [Hitomi-Downloader-issues](https://github.com/KurtBestor/Hitomi-Downloader-issues) - 特定站点资源下载器，比如 B 站、P 站等。
 
 ## SSH
 - [Mobaxterm](https://mobaxterm.mobatek.net/) - 比较全能的 ssh 客户端，有内建的 SFTP，方便文件传输。
