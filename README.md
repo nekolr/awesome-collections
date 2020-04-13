@@ -246,6 +246,7 @@
 
 ## 文档
 - [DocTranslator](https://www.onlinedoctranslator.com/) - 提供在线文档翻译和文档格式转换，无需注册，免费使用。
+- [zenodo](https://zenodo.org/) - 由欧洲核子研究中心支持，提供所有的科学领域的可公开文档。
 
 ## 录制
 - [asciinema](https://asciinema.org/) - 终端录屏神器。[![asciinema](/media/github.svg)](https://github.com/asciinema/asciinema/)
