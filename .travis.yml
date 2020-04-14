@@ -12,5 +12,6 @@ script:
     # html5test.com
     # calvin1978.blogcn.com
     # codepen.io
-- awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow 403 -w www.techug.com,www.awesomes.cn,regexr.com,html5test.com,calvin1978.blogcn.com,codepen.io
+    # www.zhihu.com
+- awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow 403 -w www.techug.com,www.awesomes.cn,regexr.com,html5test.com,calvin1978.blogcn.com,codepen.io,www.zhihu.com
 - bundle exec danger
