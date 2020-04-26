@@ -52,7 +52,7 @@
 - [纯洁的微笑](http://www.ityouknow.com/) - 微笑哥，互联网金融行业的 Java 技术人，博文较多介绍 Spring Boot 和 Spring Cloud。[![](/media/github.svg)](https://github.com/ityouknow/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/ityouknow/)
 - [廖雪峰](https://www.liaoxuefeng.com/) - 《Spring 2.0核心技术与最佳实践》的作者，博客内容丰富，适合初学者入门。[![](/media/github.svg)](https://github.com/michaelliao/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/liaoxuefeng/)
 - [RednaxelaFX](https://rednaxelafx.iteye.com/) - R 大，超级大牛，研究虚拟机的，瞻仰就对了。[![](/media/zhihu.svg)](https://www.zhihu.com/people/rednaxelafx/)
-- [程序猿DD](http://blog.didispace.com/) - 《Spring Cloud微服务实战》作者，SpringCloud 中文社区创始人。[![](/media/github.svg](https://github.com/dyc87112/)
+- [程序猿DD](http://blog.didispace.com/) - 《Spring Cloud微服务实战》作者，SpringCloud 中文社区创始人。[![](/media/github.svg)](https://github.com/dyc87112/)
 - [江南白衣](http://calvin1978.blogcn.com/) - 资深 Java 程序员，著名 Java 开源项目 SpringSide 的缔造者。[![](/media/github.svg)](https://github.com/calvin1978/)
 - [嘟嘟MD](http://tengj.top/) - Java 程序员，Spring Boot 入门系列质量不错。[![](/media/github.svg)](https://github.com/tengj/)
 - [Java译站](http://it.deepinmind.com/) - 专注 IT 技术文章翻译分享，作者花名有孚，支付宝工程师。
