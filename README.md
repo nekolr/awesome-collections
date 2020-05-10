@@ -43,6 +43,7 @@
     - [投屏](#投屏)
     - [压缩/解压](#压缩解压)
     - [二次元](#二次元)
+    - [cron](#cron)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -130,6 +131,7 @@
 ## 文件存储
 - [SM.MS](https://sm.ms/) - 图床服务，速度快，比较稳定。
 - [transfer.sh](https://transfer.sh/) - 在线文件分享，文件可以通过命令行上传，最多保存 14 天。[![transfer.sh](/media/github.svg)](https://github.com/dutchcoders/transfer.sh/)
+- [Firefox Send](https://send.firefox.com/) - 简单、私密的文件分享服务，可以匿名分享最大 1 GB 的文件，登录后可以分享 2.5 GB 大小的文件。
 
 ## 网站安全
 - [hstspreload.org](https://hstspreload.org/) - 检查网站是否支持 HSTS。[![hstspreload.org](/media/github.svg)](https://github.com/chromium/hstspreload.org/)
@@ -298,6 +300,9 @@
 - [trace.moe](https://trace.moe/) - 这个图片出自哪部动画？[![trace.moe](/media/github.svg)](https://github.com/soruly/trace.moe)
 - [MakeGirlsMoe](http://make.girls.moe) - 随机生成二次元角色。[![MakeGirlsMoe](/media/github.svg)](https://github.com/makegirlsmoe/makegirlsmoe_web)
 - [waifu2x](http://waifu2x.udp.jp/) - 使用卷积神经网络对动漫风格的图片进行放大。[![waifu2x](/media/github.svg)](https://github.com/nagadomi/waifu2x/)
+
+## cron
+- [crontab](https://crontab.guru/) - cron 生成器。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
