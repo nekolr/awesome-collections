@@ -43,6 +43,7 @@
     - [投屏](#投屏)
     - [压缩/解压](#压缩解压)
     - [二次元](#二次元)
+    - [cron](#cron)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -299,6 +300,9 @@
 - [trace.moe](https://trace.moe/) - 这个图片出自哪部动画？[![trace.moe](/media/github.svg)](https://github.com/soruly/trace.moe)
 - [MakeGirlsMoe](http://make.girls.moe) - 随机生成二次元角色。[![MakeGirlsMoe](/media/github.svg)](https://github.com/makegirlsmoe/makegirlsmoe_web)
 - [waifu2x](http://waifu2x.udp.jp/) - 使用卷积神经网络对动漫风格的图片进行放大。[![waifu2x](/media/github.svg)](https://github.com/nagadomi/waifu2x/)
+
+## cron
+- [crontab](https://crontab.guru/) - cron 生成器。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
