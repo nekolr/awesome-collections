@@ -207,6 +207,7 @@
 - [COOLORS](https://coolors.co/) - 配色方案生成器。
 - [Dribbble](https://dribbble.com/) - 优秀创意作品展示地。
 - [lottiefiles](https://lottiefiles.com/) - Lottie官方动画社区。
+- [Pinterest](https://www.pinterest.com/) - 全球创意、设计分享，寻找灵感的地方。
 
 ## 作图
 - [ProcessOn](https://www.processon.com/) - 免费在线绘制流程图、思维导图、UI原型图、UML、网络拓扑图、组织结构图等等，实时协作。
