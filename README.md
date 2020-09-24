@@ -205,6 +205,7 @@
 ## 设计
 - [Color Hunt](https://colorhunt.co/) - 色彩搭配。
 - [COOLORS](https://coolors.co/) - 配色方案生成器。
+- [Adobe Color](https://color.adobe.com) - Adobe 提供的配色方案生成器。
 - [Dribbble](https://dribbble.com/) - 优秀创意作品展示地。
 - [lottiefiles](https://lottiefiles.com/) - Lottie官方动画社区。
 - [Pinterest](https://www.pinterest.com/) - 全球创意、设计分享，寻找灵感的地方。
