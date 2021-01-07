@@ -131,7 +131,6 @@
 ## 文件存储
 - [SM.MS](https://sm.ms/) - 图床服务，速度快，比较稳定。
 - [transfer.sh](https://transfer.sh/) - 在线文件分享，文件可以通过命令行上传，最多保存 14 天。[![transfer.sh](/media/github.svg)](https://github.com/dutchcoders/transfer.sh/)
-- [Firefox Send](https://send.firefox.com/) - 简单、私密的文件分享服务，可以匿名分享最大 1 GB 的文件，登录后可以分享 2.5 GB 大小的文件。
 
 ## 网站安全
 - [hstspreload.org](https://hstspreload.org/) - 检查网站是否支持 HSTS。[![hstspreload.org](/media/github.svg)](https://github.com/chromium/hstspreload.org/)
