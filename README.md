@@ -1,6 +1,7 @@
 # Awesome Collections
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![build](https://travis-ci.org/nekolr/awesome-collections.svg?branch=master)](https://travis-ci.org/nekolr/awesome-collections)
+[![build](https://api.travis-ci.com/nekolr/awesome-collections.svg?branch=master)](https://www.travis-ci.com/github/nekolr/awesome-collections)
+
 
 一个 Java 程序员的收藏集，内容多与本职业相关。  
 
