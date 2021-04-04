@@ -55,9 +55,7 @@
 - [阮一峰](http://www.ruanyifeng.com/blog/) - 阮一峰老师博学多才，乐于分享，博客内容丰富。[![](/media/github.svg)](https://github.com/ruanyf/)
 - [纯洁的微笑](http://www.ityouknow.com/) - 微笑哥，互联网金融行业的 Java 技术人，博文较多介绍 Spring Boot 和 Spring Cloud。[![](/media/github.svg)](https://github.com/ityouknow/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/ityouknow/)
 - [廖雪峰](https://www.liaoxuefeng.com/) - 《Spring 2.0核心技术与最佳实践》的作者，博客内容丰富，适合初学者入门。[![](/media/github.svg)](https://github.com/michaelliao/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/liaoxuefeng/)
-- [RednaxelaFX](https://rednaxelafx.iteye.com/) - R 大，超级大牛，研究虚拟机的，瞻仰就对了。[![](/media/zhihu.svg)](https://www.zhihu.com/people/rednaxelafx/)
 - [程序猿DD](http://blog.didispace.com/) - 《Spring Cloud微服务实战》作者，SpringCloud 中文社区创始人。[![](/media/github.svg)](https://github.com/dyc87112/)
-- [江南白衣](http://calvin1978.blogcn.com/) - 资深 Java 程序员，著名 Java 开源项目 SpringSide 的缔造者。[![](/media/github.svg)](https://github.com/calvin1978/)
 - [嘟嘟MD](http://tengj.top/) - Java 程序员，Spring Boot 入门系列质量不错。[![](/media/github.svg)](https://github.com/tengj/)
 - [Java译站](http://it.deepinmind.com/) - 专注 IT 技术文章翻译分享，作者花名有孚，支付宝工程师。
 - [Hollis](https://www.hollischuang.com/) - 阿里巴巴资深研发工程师，《成神之路》系列较为出名。
@@ -71,7 +69,6 @@
 - [MARKSZ](https://molunerfinn.com/) - 前端开发者，全栈工程师。[![](/media/github.svg)](https://github.com/Molunerfinn/)
 - [Charles](http://oserror.com/) - 蚂蚁金服 OceanBase 团队成员，专注高性能服务端编程和分布式系统相关。[![](/media/github.svg)](https://github.com/Charles0429/)
 - [EtherDream](https://www.cnblogs.com/index-html/) - 专注前端安全。
-- [Break易站](https://www.breakyizhan.com/) - 教程居多，适合入门。
 - [meek](http://www.youmeek.com/) - 《Java 程序员眼中的 Linux》的作者。 [![](/media/github.svg)](https://github.com/judasn/)
 - [JerryQu](https://imququ.com/) - 专注于 Web 端开发，关注 Web 性能优化与安全。
 - [TimYang](https://timyang.net/) - 关注架构及互联网技术，服务于微博研发中心团队。
@@ -85,10 +82,8 @@
 - [活在夢裡](https://www.cnblogs.com/micrari/) - 博文多为 Java 相关，源码解读文章质量不错。[![](/media/github.svg)](https://github.com/MottoX/)
 - [张鑫旭](https://www.zhangxinxu.com/) - 前端开发者，站长。[![](/media/github.svg)](https://github.com/zhangxinxu/)
 - [ice1000](https://ice1000.org/) - 多语言开发者，喜欢研究代码编辑器和程序语言的设计和实现。[![](/media/github.svg)](https://github.com/ice1000/)
-- [海子](http://www.dolphin0520.com/) - 热衷于钻研互联网、计算机相关的技术以及一些黑科技。
 - [于亮](https://blog.csdn.net/jiuqiyuliang/) - CSDN 博客专家，专注于 Java。
 - [novoland](http://novoland.github.io/) - 美团猫眼后端开发。[![](/media/github.svg)](https://github.com/novoland/)
-- [大林](https://blog.rj-bai.com/) - 大林，运维。
 - [谦龙](https://qianlongo.github.io/) - 前端工程师。[![](/media/github.svg)](https://github.com/qianlongo/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/qian-long-16-72/)
 - [战神](https://www.cnblogs.com/wanghzh/) - Python 系列文章质量不错。
 - [leesf](https://www.cnblogs.com/leesf456/) - 腾讯软件工程师。[![](/media/github.svg)](https://github.com/leesf/)
@@ -116,7 +111,6 @@
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区。
 - [V2EX](https://www.v2ex.com/) - 一个关于分享和探索的地方。
 - [简明现代魔法](http://www.nowamagic.net/) - 一个神奇的 IT 社区。
-- [Div.IO](https://div.io/) - 高质量前端资源汇聚。
 - [awesomes.cn](https://www.awesomes.cn/) - 由全国的开发者共同维护，打造开放自由免费的高质量前端资源库。
 - [Linux 中国](https://linux.cn/) - Linux 中国。
 - [TesterHome](https://testerhome.com/) - 公益性的测试技术社区，致力于推动测试行业的技术发展。
@@ -159,7 +153,7 @@
 - [PicGo](https://molunerfinn.com/PicGo/) - 图片上传工具，跨平台。[![PicGo](/media/github.svg)](https://github.com/Molunerfinn/PicGo/)
 
 ## API
-- [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
+- [HibiAPI](https://api.obfs.dev) - API 收录，包括网易云音乐、Bibibili 等。
 
 ## 正则表达式
 - [regexr](https://regexr.com/) - 在线创建、测试以及学习正则表达式。[![regexr](/media/github.svg)](https://github.com/gskinner/regexr/)
@@ -169,7 +163,6 @@
 - [You might not need jQuery](http://youmightnotneedjquery.com/) - 教你如何使用原生 JavaScript 替换对应的 jQuery 代码。[![youmightnotneedjquery](/media/github.svg)](https://github.com/HubSpot/YouMightNotNeedjQuery/)
 - [Minify your JavaScript](https://javascript-minifier.com/) - JavaScript 代码压缩。
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) - 检查现代网络技术的浏览器支持程度。
-- [jsPerf](https://jsperf.com/) - 在线创建 JavaScript 测试用例，运行基准测试来比较不同代码段的性能。
 - [stackshare](https://stackshare.io/) - 提供各种软件和技术栈的比较，并提供使用它们的公司。
 - [HTML5 TEST](http://html5test.com/) - 检查你的浏览器对于 HTML5 的支持度。
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - HTML/CSS 教程。
