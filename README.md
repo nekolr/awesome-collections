@@ -1,49 +1,52 @@
 # Awesome Collections
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![build](https://travis-ci.org/nekolr/awesome-collections.svg?branch=master)](https://travis-ci.org/nekolr/awesome-collections)
+[![build](https://api.travis-ci.com/nekolr/awesome-collections.svg?branch=master)](https://www.travis-ci.com/github/nekolr/awesome-collections)
+
 
 一个 Java 程序员的收藏集，内容多与本职业相关。  
 
 快速查询：<kbd>command</kbd> + <kbd>F</kbd>
 
 # 目录
+- [Awesome Collections](#awesome-collections)
+- [目录](#目录)
 - [博客](#博客)
-    - [个人博客](#个人博客)
-    - [团队博客](#团队博客)
+  - [个人博客](#个人博客)
+  - [团队博客](#团队博客)
 - [社区](#社区)
-    - [技术社区](#技术社区)
+  - [技术社区](#技术社区)
 - [工具](#工具)
-    - [文件存储](#文件存储)
-    - [网站安全](#网站安全)
-    - [图片处理](#图片处理)
-    - [API](#api)
-    - [正则表达式](#正则表达式)
-    - [前端](#前端)
-    - [工具集合](#工具集合)
-    - [服务器](#服务器)
-    - [素材](#素材)
-    - [在线开发环境](#在线开发环境)
-    - [设计](#设计)
-    - [作图](#作图)
-    - [日志分析](#日志分析)
-    - [资源下载](#资源下载)
-    - [SSH](#ssh)
-    - [代码](#代码)
-    - [Emoji](#emoji)
-    - [文档](#文档)
-    - [录制](#录制)
-    - [流行趋势](#流行趋势)
-    - [包仓库](#包仓库)
-    - [Github](#github)
-    - [国际化](#国际化)
-    - [英语学习](#英语学习)
-    - [CDN](#cdn)
-    - [内网穿透](#内网穿透)
-    - [网络](#网络)
-    - [投屏](#投屏)
-    - [压缩/解压](#压缩解压)
-    - [二次元](#二次元)
-    - [cron](#cron)
+  - [文件存储](#文件存储)
+  - [网站安全](#网站安全)
+  - [图片处理](#图片处理)
+  - [API](#api)
+  - [正则表达式](#正则表达式)
+  - [前端](#前端)
+  - [工具集合](#工具集合)
+  - [服务器](#服务器)
+  - [素材](#素材)
+  - [在线开发环境](#在线开发环境)
+  - [设计](#设计)
+  - [作图](#作图)
+  - [日志分析](#日志分析)
+  - [资源下载](#资源下载)
+  - [SSH](#ssh)
+  - [代码](#代码)
+  - [Emoji](#emoji)
+  - [文档](#文档)
+  - [录制](#录制)
+  - [流行趋势](#流行趋势)
+  - [包仓库](#包仓库)
+  - [Github](#github)
+  - [国际化](#国际化)
+  - [英语学习](#英语学习)
+  - [CDN](#cdn)
+  - [内网穿透](#内网穿透)
+  - [网络](#网络)
+  - [投屏](#投屏)
+  - [压缩/解压](#压缩解压)
+  - [二次元](#二次元)
+  - [cron](#cron)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -156,7 +159,7 @@
 - [PicGo](https://molunerfinn.com/PicGo/) - 图片上传工具，跨平台。[![PicGo](/media/github.svg)](https://github.com/Molunerfinn/PicGo/)
 
 ## API
-- [AD's API](https://api.imjad.cn/) - API 收录，包括一言、网易云音乐、Bibibili 等。
+- [HibiAPI](https://api.obfs.dev) - API 收录，包括网易云音乐、Bibibili 等。
 
 ## 正则表达式
 - [regexr](https://regexr.com/) - 在线创建、测试以及学习正则表达式。[![regexr](/media/github.svg)](https://github.com/gskinner/regexr/)
@@ -178,6 +181,7 @@
 - [patorjk.com](http://patorjk.com/) - 作者叫 patorjk，网站里边有很多有用的工具。
 - [swiss file knife](http://stahlworks.com/dev/swiss-file-knife.html) - 一个命令行工具集合。其中的 hexdump 功能很实用，类似于 Linux 中的 hexdump。
 - [uTools](https://u.tools/index.html) - 生产力工具集，使用 electron 开发，跨平台。
+- [sordum.org](https://www.sordum.org/) - 也是一个工具集合网站，它家的 Dns Jumper 很好用，可以很方便的切换 DNS 地址，同时还可以检测延迟。
 
 ## 服务器
 - [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
