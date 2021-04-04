@@ -1,11 +1,6 @@
 language: ruby
 rvm:
   - 2.4.1
-branches:
-  only:
-  - danger
-  except:
-  - master
 before_script:
   - gem install awesome_bot
   - gem install bundle
