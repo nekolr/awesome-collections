@@ -178,6 +178,8 @@
 
 ## 服务器
 - [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
+- [ping.pe](https://ping.pe/) - 通过全球主要节点 Ping 主机来测试连通性、延迟等。
+- [port.ping.pe](https://port.ping.pe/) - 通过全球主要节点测试主机端口的连通性。
 
 ## 素材
 - [Shields.io](https://shields.io/) - 在线制作徽章。[![shields](/media/github.svg)](https://github.com/badges/shields/)
