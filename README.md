@@ -69,7 +69,6 @@
 - [MARKSZ](https://molunerfinn.com/) - 前端开发者，全栈工程师。[![](/media/github.svg)](https://github.com/Molunerfinn/)
 - [Charles](http://oserror.com/) - 蚂蚁金服 OceanBase 团队成员，专注高性能服务端编程和分布式系统相关。[![](/media/github.svg)](https://github.com/Charles0429/)
 - [EtherDream](https://www.cnblogs.com/index-html/) - 专注前端安全。
-- [meek](http://www.youmeek.com/) - 《Java 程序员眼中的 Linux》的作者。 [![](/media/github.svg)](https://github.com/judasn/)
 - [JerryQu](https://imququ.com/) - 专注于 Web 端开发，关注 Web 性能优化与安全。
 - [TimYang](https://timyang.net/) - 关注架构及互联网技术，服务于微博研发中心团队。
 - [左潇龙](http://www.zuoxiaolong.com/) - 会写小说的 Java 程序员，作者的经历很励志。
@@ -94,7 +93,6 @@
 - [程序师](https://www.techug.com/) - 程序师视野博客。
 - [芋道源码](http://www.iocoder.cn/) - 纯源码解析博客。[![](/media/github.svg)](https://github.com/YunaiV/)
 - [Python 编程时光](https://www.cnblogs.com/wongbingming/) - 讲解 Python 的文章居多，适合 Python 入门。
-- [Java码猿-书生个人博客](https://www.nonelonely.com/) - 一个以 Java 为主的博客，有很多资源（电子书）可以下载。
 
 ## 团队博客
 - [美团技术团队](https://tech.meituan.com/) - 美团技术团队的博客。
@@ -178,11 +176,12 @@
 
 ## 服务器
 - [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
+- [ping.pe](https://ping.pe/) - 通过全球主要节点 Ping 主机来测试连通性、延迟等。
+- [port.ping.pe](https://port.ping.pe/) - 通过全球主要节点测试主机端口的连通性。
 
 ## 素材
 - [Shields.io](https://shields.io/) - 在线制作徽章。[![shields](/media/github.svg)](https://github.com/badges/shields/)
 - [iconfont](https://www.iconfont.cn/) - 阿里巴巴矢量图标库。
-- [easyicon](https://www.easyicon.net/) - 图标下载。
 - [loading.io](https://loading.io/) - 在线生成加载图标。
 - [pexels](https://www.pexels.com/videos/) - 质量很高的视频素材下载站，素材完全免费，基于 COO 协议授权。
 - [RemixIcon](https://remixicon.com/) - 一套开源的图标库。[![RemixIcon](/media/github.svg)](https://github.com/Remix-Design/RemixIcon/)
