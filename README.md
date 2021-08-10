@@ -47,6 +47,7 @@
   - [压缩/解压](#压缩解压)
   - [二次元](#二次元)
   - [cron](#cron)
+  - [JetBrains](#jetbrains)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -300,6 +301,10 @@
 
 ## cron
 - [crontab](https://crontab.guru/) - cron 生成器。
+
+## JetBrains
+- [MapStruct Support](https://plugins.jetbrains.com/plugin/10036-mapstruct-support/versions) - MapStruct 插件。
+- [MybatisX](https://plugins.jetbrains.com/plugin/10119-mybatisx) - Mybatis 插件。[![MybatisX](/media/github.svg)](https://github.com/baomidou/MybatisX)
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
