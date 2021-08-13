@@ -174,6 +174,7 @@
 - [swiss file knife](http://stahlworks.com/dev/swiss-file-knife.html) - 一个命令行工具集合。其中的 hexdump 功能很实用，类似于 Linux 中的 hexdump。
 - [uTools](https://u.tools/index.html) - 生产力工具集，使用 electron 开发，跨平台。
 - [sordum.org](https://www.sordum.org/) - 也是一个工具集合网站，它家的 Dns Jumper 很好用，可以很方便的切换 DNS 地址，同时还可以检测延迟。
+- [bejson](https://www.bejson.com/) - json 相关的工具集合网站。
 
 ## 服务器
 - [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
@@ -305,6 +306,8 @@
 ## JetBrains
 - [MapStruct Support](https://plugins.jetbrains.com/plugin/10036-mapstruct-support/versions) - MapStruct 插件。
 - [MybatisX](https://plugins.jetbrains.com/plugin/10119-mybatisx) - Mybatis 插件。[![MybatisX](/media/github.svg)](https://github.com/baomidou/MybatisX)
+- [MybatisLogFormat](https://plugins.jetbrains.com/plugin/14292-mybatislogformat) - 能够将控制台打印的 Mybatis SQL 语句和参数合并成可以直接执行的 SQL 语句。
+- [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter) - 一键调用对象所有的 set 方法。[![GenerateAllSetter](/media/github.svg)](https://github.com/gejun123456/intellij-generateAllSetMethod)
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
