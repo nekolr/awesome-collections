@@ -306,6 +306,7 @@
 ## JetBrains
 - [MapStruct Support](https://plugins.jetbrains.com/plugin/10036-mapstruct-support/versions) - MapStruct 插件。
 - [MybatisX](https://plugins.jetbrains.com/plugin/10119-mybatisx) - Mybatis 插件。[![MybatisX](/media/github.svg)](https://github.com/baomidou/MybatisX)
+- [MybatisLogFormat](https://plugins.jetbrains.com/plugin/14292-mybatislogformat) - 能够将控制台打印的 Mybatis SQL 语句和参数合并成可以直接执行的 SQL 语句。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
