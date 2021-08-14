@@ -48,6 +48,7 @@
   - [二次元](#二次元)
   - [cron](#cron)
   - [JetBrains](#jetbrains)
+  - [数据结构和算法](#数据结构和算法)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -308,6 +309,9 @@
 - [MybatisX](https://plugins.jetbrains.com/plugin/10119-mybatisx) - Mybatis 插件。[![MybatisX](/media/github.svg)](https://github.com/baomidou/MybatisX)
 - [MybatisLogFormat](https://plugins.jetbrains.com/plugin/14292-mybatislogformat) - 能够将控制台打印的 Mybatis SQL 语句和参数合并成可以直接执行的 SQL 语句。
 - [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter) - 一键调用对象所有的 set 方法。[![GenerateAllSetter](/media/github.svg)](https://github.com/gejun123456/intellij-generateAllSetMethod)
+
+## 数据结构和算法
+- [visualgo](https://visualgo.net/zh) - 数据结构和算法动态可视化。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
