@@ -110,7 +110,6 @@
 - [SegmentFault](https://segmentfault.com/) - 思否，为开发者提供问答、学习与交流编程知识的平台。
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区。
 - [V2EX](https://www.v2ex.com/) - 一个关于分享和探索的地方。
-- [简明现代魔法](http://www.nowamagic.net/) - 一个神奇的 IT 社区。
 - [awesomes.cn](https://www.awesomes.cn/) - 由全国的开发者共同维护，打造开放自由免费的高质量前端资源库。
 - [Linux 中国](https://linux.cn/) - Linux 中国。
 - [TesterHome](https://testerhome.com/) - 公益性的测试技术社区，致力于推动测试行业的技术发展。
@@ -118,7 +117,6 @@
 - [安全客](https://www.anquanke.com/) - 为广大安全爱好者和安全从业人员提供权威信息发布的漏洞信息、安全资讯、安全知识及安全活动的一站式安全平台。
 - [SSL中国](https://www.sslchina.com/) - 关注网络安全和行业未来。
 - [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，取名源自《黑客与画家》。
-- [技术宅](https://jszbug.com/) - 技术宅，专注分享，专注技术！分享互联网科技新闻轶事，分享生活小常识，各种数码使用小技巧！
 - [Go语言中文网](https://studygolang.com/) - Golang 中文社区。
 - [Golang 中国](https://www.golangtc.com/) - Golang 中国。[![golangtc.com](/media/github.svg)](https://github.com/jimmykuu/gopher/)
 - [Ruby China](https://ruby-china.org/) - Ruby China 社区。
@@ -196,7 +194,6 @@
 - [JSRUN](http://jsrun.net/) - HTML/JS/CSS在线编辑器。
 - [CodePen](https://codepen.io/) - 在线编辑 HTML、CSS 和 JavaScript，并且有很多优秀的作品展示。
 - [JS Bin](http://jsbin.com) - 在线编辑 HTML、CSS 和 JavaScript。
-- [Thimble](https://thimble.mozilla.org/) - Thimble 是一个在线代码编辑器，用它可以很轻松地创建和发布一个您自己的网页。
 - [CodeSandbox](https://codesandbox.io/) - 在线创建前端项目。[![CodeSandbox](/media/github.svg)](https://github.com/CompuIves/codesandbox-client/)
 - [awesome-online-ide](https://github.com/styfle/awesome-online-ide/) - 在线开发环境集合。[![awesome-online-ide](/media/github.svg)](https://github.com/styfle/awesome-online-ide/)
 
