@@ -319,5 +319,6 @@
 - [岡山市のレトロモダンな雑貨・和風ファッションのお店／はなみち舎](http://hanamichiya.jp/) - 冈山的复古现代商品/日本时装店。
 - [黑川温泉旅馆](http://www.sanga-ryokan.com/) - 黑川温泉旅馆官网。
 - [中国色](http://zhongguose.com/) - 中国传统颜色大全。
+- [世界名画博物馆](https://gallerix.asia) - 俄罗斯最大的在线艺术馆，也是互联网最大的虚拟艺术馆之一。
 
 <br>[⬆ Back to top](#目录)
