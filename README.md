@@ -100,7 +100,6 @@
 - [美团技术团队](https://tech.meituan.com/) - 美团技术团队的博客。
 - [有赞技术团队](https://tech.youzan.com/) - 有赞技术团队的博客。
 - [OneAPM](http://blog.oneapm.com/) - OneAPM 官方博客。
-- [阿里中间件团队](http://jm.taobao.org/) - 阿里中间件团队的博客。
 - [蚂蚁数据体验技术团队](https://www.yuque.com/prototeam/weblog) - 蚂蚁数据体验技术团队的博客。[![](/media/github.svg)](https://github.com/ProtoTeam/blog)
 
 # 社区
@@ -113,7 +112,6 @@
 - [awesomes.cn](https://www.awesomes.cn/) - 由全国的开发者共同维护，打造开放自由免费的高质量前端资源库。
 - [Linux 中国](https://linux.cn/) - Linux 中国。
 - [TesterHome](https://testerhome.com/) - 公益性的测试技术社区，致力于推动测试行业的技术发展。
-- [Spring For All](http://www.spring4all.com/) - Spring For All 垂直技术社区，国内首个 Spring 及 Spring Cloud 构建微服务架构的交流社区。
 - [安全客](https://www.anquanke.com/) - 为广大安全爱好者和安全从业人员提供权威信息发布的漏洞信息、安全资讯、安全知识及安全活动的一站式安全平台。
 - [SSL中国](https://www.sslchina.com/) - 关注网络安全和行业未来。
 - [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，取名源自《黑客与画家》。
@@ -291,7 +289,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - 安卓投屏软件，可以在 Windows、Linux 和 macOS 上投影并控制安卓设备。
 
 ## 压缩/解压
-- [PeaZip](https://www.peazip.org/) - 免费开源的压缩/解压工具，在 Bandizip 开始收费后的唯二选择，就是图标略丑。
+- [PeaZip](https://peazip.github.io/) - 免费开源的压缩/解压工具，在 Bandizip 开始收费后的唯二选择，就是图标略丑。
 - [7-Zip](https://www.7-zip.org/) - 开源压缩软件，UI 有点拖后腿。
 
 ## 二次元
