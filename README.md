@@ -234,6 +234,7 @@
 
 ## 代码
 - [Ubuntu Pastebin](https://paste.ubuntu.com/) - 代码发布网站，不需要注册，方便分享代码。
+- [paste.rs](https://paste.rs/) - 代码、日志等分享，免注册。
 - [CodeZen](http://codezen.rishimohan.me/) - 简约的代码转图片的工具。
 - [codeimg](https://codeimg.io/) - 将代码转为图片的工具，功能相对较多。
 - [carbon](https://carbon.now.sh/) - 开源代码转图片的工具。[![carbon](/media/github.svg)](https://github.com/dawnlabs/carbon)
