@@ -101,6 +101,7 @@
 - [有赞技术团队](https://tech.youzan.com/) - 有赞技术团队的博客。
 - [OneAPM](http://blog.oneapm.com/) - OneAPM 官方博客。
 - [蚂蚁数据体验技术团队](https://www.yuque.com/prototeam/weblog) - 蚂蚁数据体验技术团队的博客。[![](/media/github.svg)](https://github.com/ProtoTeam/blog)
+- [Seebug paper](https://paper.seebug.org/) - 知道创宇旗下的专业技术博客，专注于安全技术。
 
 # 社区
 
@@ -118,6 +119,7 @@
 - [Go语言中文网](https://studygolang.com/) - Golang 中文社区。
 - [Golang 中国](https://www.golangtc.com/) - Golang 中国。[![golangtc.com](/media/github.svg)](https://github.com/jimmykuu/gopher/)
 - [Ruby China](https://ruby-china.org/) - Ruby China 社区。
+- [小众软件](https://meta.appinn.net/) - 小众软件论坛。
 
 # 工具
 
