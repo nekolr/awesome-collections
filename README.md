@@ -156,6 +156,7 @@
 ## 正则表达式
 - [regexr](https://regexr.com/) - 在线创建、测试以及学习正则表达式。[![regexr](/media/github.svg)](https://github.com/gskinner/regexr/)
 - [regexlab](http://www.regexlab.com/) - 正则工作室网站是一个专门学习和研究正则表达式的网站，可以在这里学习正则表达式，也可以在这里找到实用的工具和应用。
+- [Regex101](www.regex101.com) - 正则在线测试服务。
 
 ## 前端
 - [You might not need jQuery](http://youmightnotneedjquery.com/) - 教你如何使用原生 JavaScript 替换对应的 jQuery 代码。[![youmightnotneedjquery](/media/github.svg)](https://github.com/HubSpot/YouMightNotNeedjQuery/)
