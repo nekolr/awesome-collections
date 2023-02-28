@@ -218,6 +218,9 @@
 
 ## 资源下载
 - [I Tell You](https://msdn.itellyou.cn/) - 很早的站了，以前下载操作系统经常去这里。
+- [MSDN 山己几子木](https://msdn.sjjzm.com/) - 另一个操作系统下载站。
+- [MSDN 系统库](https://www.xitongku.com/) - 又一个操作系统下载站。
+- [HelloWindows](https://www.hellowindows.cn/) - 又又一个操作系统下载站。
 - [Fossies](https://fossies.org/) - 开源软件整理归档。
 - [Online Downloader](https://www.online-downloader.com/) - 视频下载器，支持很多站点。
 - [softonic](https://en.softonic.com/) - 软件下载站，不同平台的软件都有提供，而且有中文站。
@@ -226,7 +229,6 @@
 - [OldVersion](http://www.oldversion.cn/) - 可以在这里寻找很多软件以前的发行版本。
 - [163](https://mirrors.163.com/) - 网易开源镜像站。
 - [IDM](http://www.internetdownloadmanager.com/) - 下载工具，建议购买终身授权。
-- [Hitomi-Downloader-issues](https://github.com/KurtBestor/Hitomi-Downloader-issues) - 特定站点资源下载器，比如 B 站、P 站等。
 
 ## SSH
 - [Mobaxterm](https://mobaxterm.mobatek.net/) - 比较全能的 ssh 客户端，有内建的 SFTP，方便文件传输。
