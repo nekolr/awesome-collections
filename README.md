@@ -157,6 +157,7 @@
 - [regexr](https://regexr.com/) - 在线创建、测试以及学习正则表达式。[![regexr](/media/github.svg)](https://github.com/gskinner/regexr/)
 - [regexlab](http://www.regexlab.com/) - 正则工作室网站是一个专门学习和研究正则表达式的网站，可以在这里学习正则表达式，也可以在这里找到实用的工具和应用。
 - [Regex101](www.regex101.com) - 正则在线测试服务。
+- [Visual Regexp](https://wangwl.net/static/projects/visualRegex) - 正则表达式可视化，在线测试、学习、构建正则表达式。
 
 ## 前端
 - [You might not need jQuery](http://youmightnotneedjquery.com/) - 教你如何使用原生 JavaScript 替换对应的 jQuery 代码。[![youmightnotneedjquery](/media/github.svg)](https://github.com/HubSpot/YouMightNotNeedjQuery/)
@@ -175,6 +176,8 @@
 - [uTools](https://u.tools/index.html) - 生产力工具集，使用 electron 开发，跨平台。
 - [sordum.org](https://www.sordum.org/) - 也是一个工具集合网站，它家的 Dns Jumper 很好用，可以很方便的切换 DNS 地址，同时还可以检测延迟。
 - [bejson](https://www.bejson.com/) - json 相关的工具集合网站。
+- [Windows 11 Classic Context Menu](https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/) - 将 windows 11 的上下文菜单修改成经典上下文菜单。
+- [meiguodizhi](https://www.meiguodizhi.com/) - 美国地址生成器，美国身份生成器，美国信用卡生成器。
 
 ## 服务器
 - [UptimeRobot](https://uptimerobot.com/) - 免费服务器在线率监控。
