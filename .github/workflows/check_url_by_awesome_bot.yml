@@ -1,8 +1,8 @@
 name: check_url_by_awesome_bot
 
 on:
-  pull_request:
-    branches: [ '*' ]
+  push:
+    branches: [ 'master' ]
 
 jobs:
   build:
