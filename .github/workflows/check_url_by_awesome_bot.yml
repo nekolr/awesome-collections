@@ -1,8 +1,6 @@
 name: check_url_by_awesome_bot
 
 on:
-  push:
-    branches: [ 'master' ]
   pull_request:
     branches: [ '*' ]
 
@@ -20,8 +18,6 @@ jobs:
     - name: Checks
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow 403 -w www.techug.com,www.awesomes.cn,regexr.com,html5test.com,codepen.io,www.zhihu.com
-    - name: Bundle
-      run: |
         gem install bundle
+        awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow 403 -w www.techug.com,www.awesomes.cn,regexr.com,html5test.com,codepen.io,www.zhihu.com
         bundle exec danger
