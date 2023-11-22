@@ -74,7 +74,6 @@
 - [JerryQu](https://imququ.com/) - 专注于 Web 端开发，关注 Web 性能优化与安全。
 - [TimYang](https://timyang.net/) - 关注架构及互联网技术，服务于微博研发中心团队。
 - [左潇龙](http://www.zuoxiaolong.com/) - 会写小说的 Java 程序员，作者的经历很励志。
-- [Edison Xu](http://edisonxu.com/) - Java 开发者。
 - [编程一生](http://www.cnblogs.com/xiexj/) - 是个妹子，美团点评技术专家。[![](/media/github.svg)](https://github.com/xiexiaojing/)
 - [Ryan Miao](https://www.cnblogs.com/woshimrf/) - 主要从事 Java 服务端开发。[![](/media/github.svg)](https://github.com/Ryan-Miao/)
 - [王垠](http://www.yinwang.org/) - 是谁就不用多说了吧。
@@ -88,7 +87,6 @@
 - [谦龙](https://qianlongo.github.io/) - 前端工程师。[![](/media/github.svg)](https://github.com/qianlongo/) [![](/media/zhihu.svg)](https://www.zhihu.com/people/qian-long-16-72/)
 - [战神](https://www.cnblogs.com/wanghzh/) - Python 系列文章质量不错。
 - [leesf](https://www.cnblogs.com/leesf456/) - 腾讯软件工程师。[![](/media/github.svg)](https://github.com/leesf/)
-- [Java 技术驿站](http://cmsblogs.com/) - Java 内容丰富。
 - [说好不能打脸](https://blog.csdn.net/yinwenjie/) - CSDN 博客专家，专注于 Java。
 - [John Resig](https://johnresig.com/category/blog/) - jQuery 创始人。
 - [酷壳](https://coolshell.cn/) - 陈皓大神的个人博客。
@@ -99,7 +97,6 @@
 ## 团队博客
 - [美团技术团队](https://tech.meituan.com/) - 美团技术团队的博客。
 - [有赞技术团队](https://tech.youzan.com/) - 有赞技术团队的博客。
-- [OneAPM](http://blog.oneapm.com/) - OneAPM 官方博客。
 - [蚂蚁数据体验技术团队](https://www.yuque.com/prototeam/weblog) - 蚂蚁数据体验技术团队的博客。[![](/media/github.svg)](https://github.com/ProtoTeam/blog)
 - [Seebug paper](https://paper.seebug.org/) - 知道创宇旗下的专业技术博客，专注于安全技术。
 
