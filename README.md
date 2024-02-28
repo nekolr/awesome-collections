@@ -49,6 +49,7 @@
   - [cron](#cron)
   - [JetBrains](#jetbrains)
   - [数据结构和算法](#数据结构和算法)
+- [教程](#教程)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -99,6 +100,7 @@
 - [有赞技术团队](https://tech.youzan.com/) - 有赞技术团队的博客。
 - [蚂蚁数据体验技术团队](https://www.yuque.com/prototeam/weblog) - 蚂蚁数据体验技术团队的博客。[![](/media/github.svg)](https://github.com/ProtoTeam/blog)
 - [Seebug paper](https://paper.seebug.org/) - 知道创宇旗下的专业技术博客，专注于安全技术。
+- [得物技术](https://tech.dewu.com/) - 得物技术团队博客。
 
 # 社区
 
@@ -107,14 +109,11 @@
 - [SegmentFault](https://segmentfault.com/) - 思否，为开发者提供问答、学习与交流编程知识的平台。
 - [掘金](https://juejin.im/) - 一个帮助开发者成长的社区。
 - [V2EX](https://www.v2ex.com/) - 一个关于分享和探索的地方。
-- [awesomes.cn](https://www.awesomes.cn/) - 由全国的开发者共同维护，打造开放自由免费的高质量前端资源库。
-- [Linux 中国](https://linux.cn/) - Linux 中国。
 - [TesterHome](https://testerhome.com/) - 公益性的测试技术社区，致力于推动测试行业的技术发展。
 - [安全客](https://www.anquanke.com/) - 为广大安全爱好者和安全从业人员提供权威信息发布的漏洞信息、安全资讯、安全知识及安全活动的一站式安全平台。
 - [SSL中国](https://www.sslchina.com/) - 关注网络安全和行业未来。
 - [黑客派](https://hacpai.com/) - B3log 开源社区的线上论坛，取名源自《黑客与画家》。
 - [Go语言中文网](https://studygolang.com/) - Golang 中文社区。
-- [Golang 中国](https://www.golangtc.com/) - Golang 中国。[![golangtc.com](/media/github.svg)](https://github.com/jimmykuu/gopher/)
 - [Ruby China](https://ruby-china.org/) - Ruby China 社区。
 - [小众软件](https://meta.appinn.net/) - 小众软件论坛。
 
@@ -253,6 +252,8 @@
 ## 文档
 - [DocTranslator](https://www.onlinedoctranslator.com/) - 提供在线文档翻译和文档格式转换，无需注册，免费使用。
 - [zenodo](https://zenodo.org/) - 由欧洲核子研究中心支持，提供所有的科学领域的可公开文档。
+- [ilovepdf](https://www.ilovepdf.com/zh-cn) - pdf 处理工具集合。
+- [smallpdf](https://smallpdf.com/) - pdf 处理工具集合。
 
 ## 录制
 - [asciinema](https://asciinema.org/) - 终端录屏神器。[![asciinema](/media/github.svg)](https://github.com/asciinema/asciinema/)
@@ -314,6 +315,10 @@
 
 ## 数据结构和算法
 - [visualgo](https://visualgo.net/zh) - 数据结构和算法动态可视化。
+
+# 教程
+- [存在码](https://cunzaima.cn/) - Java 等中文教程。
+- [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm) - 正则表达式30分钟入门教程。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
