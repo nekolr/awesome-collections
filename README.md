@@ -160,7 +160,6 @@
 - [Minify your JavaScript](https://javascript-minifier.com/) - JavaScript 代码压缩。
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) - 检查现代网络技术的浏览器支持程度。
 - [stackshare](https://stackshare.io/) - 提供各种软件和技术栈的比较，并提供使用它们的公司。
-- [HTML5 TEST](http://html5test.com/) - 检查你的浏览器对于 HTML5 的支持度。
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - HTML/CSS 教程。
 - [学习 CSS 布局](http://zh.learnlayout.com/) - 学习 CSS 布局。
 
