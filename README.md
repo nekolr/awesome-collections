@@ -79,7 +79,6 @@
 - [Ryan Miao](https://www.cnblogs.com/woshimrf/) - 主要从事 Java 服务端开发。[![](/media/github.svg)](https://github.com/Ryan-Miao/)
 - [王垠](http://www.yinwang.org/) - 是谁就不用多说了吧。
 - [Zacard](https://zacard.net/) - Java 程序员。
-- [SHEN](http://www.ciaoshen.com/) - Java 开发者，博文多为算法相关。[![](/media/github.svg)](https://github.com/helloShen/)
 - [活在夢裡](https://www.cnblogs.com/micrari/) - 博文多为 Java 相关，源码解读文章质量不错。[![](/media/github.svg)](https://github.com/MottoX/)
 - [张鑫旭](https://www.zhangxinxu.com/) - 前端开发者，站长。[![](/media/github.svg)](https://github.com/zhangxinxu/)
 - [ice1000](https://ice1000.org/) - 多语言开发者，喜欢研究代码编辑器和程序语言的设计和实现。[![](/media/github.svg)](https://github.com/ice1000/)
