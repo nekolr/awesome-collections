@@ -186,6 +186,7 @@
 - [pexels](https://www.pexels.com/videos/) - 质量很高的视频素材下载站，素材完全免费，基于 COO 协议授权。
 - [RemixIcon](https://remixicon.com/) - 一套开源的图标库。[![RemixIcon](/media/github.svg)](https://github.com/Remix-Design/RemixIcon/)
 - [Evie](https://evie.undraw.co/) - Evie 是麻省理工学院许可的网页模板，可以更快地构建网站。它非常轻巧，可定制，可在现代浏览器上完美运行。
+- [Yesicon](https://yesicon.app/) - 精选全球高品质、开源、免费的矢量图标库。
 
 ## 在线开发环境
 - [Repl.it](https://repl.it/) - 提供各种语言的在线开发环境。
