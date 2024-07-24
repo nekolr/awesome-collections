@@ -49,6 +49,9 @@
   - [cron](#cron)
   - [JetBrains](#jetbrains)
   - [数据结构和算法](#数据结构和算法)
+  - [人工智能](#人工智能)
+  - [邮件](#邮件)
+  - [硬件](#硬件)
 - [教程](#教程)
 - [有意思的网站](#有意思的网站)
 
@@ -253,6 +256,8 @@
 - [zenodo](https://zenodo.org/) - 由欧洲核子研究中心支持，提供所有的科学领域的可公开文档。
 - [ilovepdf](https://www.ilovepdf.com/zh-cn) - pdf 处理工具集合。
 - [smallpdf](https://smallpdf.com/) - pdf 处理工具集合。
+- [TableConvert](https://tableconvert.com/) - 将 Excel 转换成各种格式的文件。
+- [爱校对](https://www.ijiaodui.com/) - 清华大学出的文字校对工具。
 
 ## 录制
 - [asciinema](https://asciinema.org/) - 终端录屏神器。[![asciinema](/media/github.svg)](https://github.com/asciinema/asciinema/)
@@ -280,7 +285,6 @@
 - [词根词源字典](http://www.etymon.cn) - 英语词根词源字典。
 
 ## CDN
-- [75CDN](https://cdn.baomitu.com/) - 360 前端静态资源库是由奇舞团支持并维护的开源项目免费 CDN 服务，主要同步于 [cdnjs](https://github.com/cdnjs/cdnjs) 仓库。
 - [BootCDN](https://www.bootcdn.cn/) - BootCDN 是 Bootstrap 中文网支持并维护的前端开源项目免费 CDN 服务，主要同步于 [cdnjs](https://github.com/cdnjs/cdnjs) 仓库。
 - [Staticfile CDN](https://www.staticfile.org/) - Staticfile CDN 是由技术社区掘金支持并维护的 CDN 服务。[![Staticfile CDN](/media/github.svg)](https://github.com/staticfile/static)
 
@@ -314,6 +318,15 @@
 
 ## 数据结构和算法
 - [visualgo](https://visualgo.net/zh) - 数据结构和算法动态可视化。
+
+## 人工智能
+- [thisxdoesnotexist](https://thisxdoesnotexist.com/) - 这个 XXX 不存在。使用生成对抗网络（GAN）创造的虚假物体。
+
+## 邮件
+- [10minutemail](https://10minutemail.com/) - 10 分钟有效的临时邮箱，可以用来申请一些不重要或者不想暴露私人邮箱的帐号。
+
+## 硬件
+- [pinouts](https://pinouts.org/) - 引脚大全。收录了常见的设备引脚。
 
 # 教程
 - [存在码](https://cunzaima.cn/) - Java 等中文教程。
