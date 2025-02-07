@@ -52,7 +52,8 @@
   - [人工智能](#人工智能)
   - [邮件](#邮件)
   - [硬件](#硬件)
-- [教程](#教程)
+  - [Kodi（xbmc）](#kodixbmc)
+- [教程与书籍](#教程与书籍)
 - [有意思的网站](#有意思的网站)
 
 # 博客
@@ -266,6 +267,7 @@
 ## 流行趋势
 - [DB-Engines](https://db-engines.com/en/) - 数据库流行程度统计。
 - [State.of.dev](https://stateofdev.com/) - 根据**技术热门度曲线**模型（Gartner Hype Cycle），进行数据分析提供的各种技术的热门程度图。[![State.of.dev](/media/github.svg)](https://github.com/state-of/dev/)
+- [DistroWatch](https://distrowatch.com/) - Linux 发行版流行度排名以及相关信息。
 
 ## 包仓库
 - [mvn repository](https://mvnrepository.com/) - Maven 依赖查询网站，可以下载、搜索包。
@@ -328,9 +330,14 @@
 ## 硬件
 - [pinouts](https://pinouts.org/) - 引脚大全。收录了常见的设备引脚。
 
-# 教程
+## Kodi（xbmc）
+- [Kodinerds Addon Repo](https://repo.kodinerds.net/) - [Kodi](https://github.com/xbmc/xbmc) 的三方插件仓库。
+
+# 教程与书籍
 - [存在码](https://cunzaima.cn/) - Java 等中文教程。
 - [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm) - 正则表达式30分钟入门教程。
+- [The CRPG Book](https://crpgbook.wordpress.com/) - 分享计算机角色扮演游戏的历史。
+- [The CRPG Book 中文版 | CRPG 通鉴](https://crpgbook.cn/) - 《The CRPG Book》的中文翻译版。
 
 # 有意思的网站
 - [豊田市美術館](https://www.museum.toyota.aichi.jp/) - 日本豊田市美术馆官网。
