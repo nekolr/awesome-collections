@@ -297,6 +297,7 @@
 ## 网络
 - [ipip](https://tools.ipip.net/newping.php) - ip 查询、全球 ping 查询等。
 - [17ce](https://www.17ce.com/) - 与 ipip 类似。
+- [NetSpot](https://www.netspotapp.com/) - 用于 Wi-Fi 网络规划，Wi-Fi 分析和故障排除等。
 
 ## 投屏
 - [scrcpy](https://github.com/Genymobile/scrcpy) - 安卓投屏软件，可以在 Windows、Linux 和 macOS 上投影并控制安卓设备。
